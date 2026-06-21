@@ -1,0 +1,17 @@
+{
+  "json_entries": 6940,
+  "csv_rows": 9588,
+  "full_matches": 6936,
+  "partial_matches": 4,
+  "matched_json_entries": 6940,
+  "unmatched_json_entries": 0,
+  "unmatched_json_indices": [],
+  "skipped_csv_rows_kept_original": 2648,
+  "cp932_failures": [],
+  "cp932_failure_count": 0,
+  "mode": "truncate",
+  "truncated_rows": 1430,
+  "input_size": 1344256,
+  "output_size": 1344256,
+  "changed_rows": 6940
+}

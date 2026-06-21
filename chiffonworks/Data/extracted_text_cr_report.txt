@@ -1,0 +1,1821 @@
+extracted_text CR report
+original: F:\galworks\chiffonworks\Data\extracted_text.json
+chinese : F:\galworks\chiffonworks\Data\extracted_text_chs.json
+entries : 6940
+long threshold: visible_len >= 60
+
+[1] CHS missing CR compared with original: 115
+
+index=334
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[18]
+  original_len=74 chs_len=48
+  original=「妹レンタルの御利用、誠に有難うございます。本日、レンタルの期限が切\r　れましたので、お客様にご足労願うのも恐縮と思い、こうして伺わせていただ\r　きました」
+  chs     =「衷心感谢您租借妹妹。今日租约已经到\r　期，考虑到让您亲自跑一趟实在过意不去，我们便这样登门拜访了」
+
+index=335
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[18]
+  original_len=74 chs_len=48
+  original=「妹レンタルの御利用、誠に有難うございます。本日、レンタルの期限が切\r　れましたので、お客様にご足労願うのも恐縮と思い、こうして伺わせていただ\r　きました」
+  chs     =「衷心感谢您租借妹妹。今日租约已经到\r　期，考虑到让您亲自跑一趟实在过意不去，我们便这样登门拜访了」
+
+index=352
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=63 chs_len=55
+  original=記憶を失うきっかけになった事故。僕の嘘。そして妹レンタルの存在。妹\rレンタルは「お手伝いさんの派遣会社のような物」としておいた。
+  chs     =导致失去记忆的那场事故，我的谎言，以及「租借妹妹」的存在。我把「租借妹妹」解释成了类似「家政派遣公司」的东西。
+
+index=353
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=63 chs_len=55
+  original=記憶を失うきっかけになった事故。僕の嘘。そして妹レンタルの存在。妹\rレンタルは「お手伝いさんの派遣会社のような物」としておいた。
+  chs     =导致失去记忆的那场事故，我的谎言，以及「租借妹妹」的存在。我把「租借妹妹」解释成了类似「家政派遣公司」的东西。
+
+index=356
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[29]
+  original_len=87 chs_len=79
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=357
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[29]
+  original_len=87 chs_len=79
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=364
+  original_cr_count=2 positions=[34, 70]
+  chs_cr_count=1 positions=[20]
+  original_len=72 chs_len=42
+  original=「お楽しみいただいていますでしょうか？お客様のレンタル期間がそろそろ\r終了致します。こちらから美雨ちゃんを引き取りに参りますが宜しいでしょう\rか？」
+  chs     =「不知您是否满意？您的租借期限即将到期。\r我们将派人过去接走美雨酱，不知您意下如何？」
+
+index=365
+  original_cr_count=2 positions=[34, 70]
+  chs_cr_count=1 positions=[20]
+  original_len=72 chs_len=42
+  original=「お楽しみいただいていますでしょうか？お客様のレンタル期間がそろそろ\r終了致します。こちらから美雨ちゃんを引き取りに参りますが宜しいでしょう\rか？」
+  chs     =「不知您是否满意？您的租借期限即将到期。\r我们将派人过去接走美雨酱，不知您意下如何？」
+
+index=456
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=24
+  original=しっとり濡れた割れ目に固く研ぎ澄まされたグロテスクな肉棒が入ってい\rく。
+  chs     =坚硬而狰狞的肉棒，就这么没入了那湿润的缝隙之中。
+
+index=457
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=24
+  original=しっとり濡れた割れ目に固く研ぎ澄まされたグロテスクな肉棒が入ってい\rく。
+  chs     =坚硬而狰狞的肉棒，就这么没入了那湿润的缝隙之中。
+
+index=954
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=61 chs_len=48
+  original=僕は彼が敵か味方か分からず、ただ口を開けてその姿を見ていた。彼は真っ\r赤な顔をして、大変大きな大きな鼻を付けていたのである。
+  chs     =我分不清对方是敌是友，只能张大嘴巴傻傻地盯着。那人长着一张通红的脸，还挂着一只硕大无比的长鼻子。
+
+index=955
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=61 chs_len=48
+  original=僕は彼が敵か味方か分からず、ただ口を開けてその姿を見ていた。彼は真っ\r赤な顔をして、大変大きな大きな鼻を付けていたのである。
+  chs     =我分不清对方是敌是友，只能张大嘴巴傻傻地盯着。那人长着一张通红的脸，还挂着一只硕大无比的长鼻子。
+
+index=1352
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[33]
+  original_len=75 chs_len=50
+  original=ひょっとしたら美雨は警察やおせっかいな市民の手によって保護されてし\rまっているのかもしれない。愛し合う兄妹は国家権力によって引き裂かれてし\rまったわけだ。
+  chs     =搞不好美雨已经被警察或是哪个爱管闲事的市民给保护起来了。也就是说，\r相亲相爱的兄妹被国家权力给拆散了。
+
+index=1353
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[33]
+  original_len=75 chs_len=50
+  original=ひょっとしたら美雨は警察やおせっかいな市民の手によって保護されてし\rまっているのかもしれない。愛し合う兄妹は国家権力によって引き裂かれてし\rまったわけだ。
+  chs     =搞不好美雨已经被警察或是哪个爱管闲事的市民给保护起来了。也就是说，\r相亲相爱的兄妹被国家权力给拆散了。
+
+index=1771
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=54
+  original=僕は一気に美雨の中に突っ込んだ。十分に濡れていたので殆ど抵抗はなかっ\rた。チュルンと美雨の処女は破られたわけだ。
+  chs     =我一口气捅进了美雨的体内。因为那里已经足够湿润，几乎没有感受到阻力。哧溜一下，美雨的处女之身就这样被贯穿了。
+
+index=1772
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=54
+  original=僕は一気に美雨の中に突っ込んだ。十分に濡れていたので殆ど抵抗はなかっ\rた。チュルンと美雨の処女は破られたわけだ。
+  chs     =我一口气捅进了美雨的体内。因为那里已经足够湿润，几乎没有感受到阻力。哧溜一下，美雨的处女之身就这样被贯穿了。
+
+index=1955
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[27]
+  original_len=75 chs_len=57
+  original=しかし抵抗する術はない。一糸纏わぬ姿で股をこれでもかという角度に広\rげられ、あそこをジュプジュプに濡らしてしまった女の子に残された道は一つ\rしかないのだ。
+  chs     =然而已经无力反抗。对于一个一丝不挂、双腿被扳开到极限，\r甚至连那里都已经湿得一塌糊涂的女孩子来说，剩下的路只有一条。
+
+index=1956
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[27]
+  original_len=75 chs_len=57
+  original=しかし抵抗する術はない。一糸纏わぬ姿で股をこれでもかという角度に広\rげられ、あそこをジュプジュプに濡らしてしまった女の子に残された道は一つ\rしかないのだ。
+  chs     =然而已经无力反抗。对于一个一丝不挂、双腿被扳开到极限，\r甚至连那里都已经湿得一塌糊涂的女孩子来说，剩下的路只有一条。
+
+index=2115
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[23]
+  original_len=73 chs_len=59
+  original=どうしよう…やばいやばいやばい。今度ばかりは僕にも良いアイデアは浮\rかばなかった。運転手の姿は既に無く、あ、逃げれば良かったのかと思っても\r既に遅い。
+  chs     =该怎么办……糟了糟了糟了。唯独这次，我也想不出\r什么好主意。司机早已不见踪影，我才反应过来刚才应该逃跑才对，可为时已晚。
+
+index=2116
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[23]
+  original_len=73 chs_len=59
+  original=どうしよう…やばいやばいやばい。今度ばかりは僕にも良いアイデアは浮\rかばなかった。運転手の姿は既に無く、あ、逃げれば良かったのかと思っても\r既に遅い。
+  chs     =该怎么办……糟了糟了糟了。唯独这次，我也想不出\r什么好主意。司机早已不见踪影，我才反应过来刚才应该逃跑才对，可为时已晚。
+
+index=3182
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=45 chs_len=33
+  original=「こんにちは。美雨の兄です。最近こっちに帰ってきたんで妹の買い物にで\r　も付き合おうと思って」
+  chs     =「你们好。我是美雨的哥哥。最近刚回到这边，所以想带妹妹去买点东西」
+
+index=3183
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=45 chs_len=33
+  original=「こんにちは。美雨の兄です。最近こっちに帰ってきたんで妹の買い物にで\r　も付き合おうと思って」
+  chs     =「你们好。我是美雨的哥哥。最近刚回到这边，所以想带妹妹去买点东西」
+
+index=3214
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=32
+  original=さすがにあんな物を見られてはマズイだろう。僕は行為を中断させる為に\r窓ガラスを叩いた。
+  chs     =那种场面要是被人看见可就不妙了。为了让他们停下来，我敲了敲车窗。
+
+index=3215
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=32
+  original=さすがにあんな物を見られてはマズイだろう。僕は行為を中断させる為に\r窓ガラスを叩いた。
+  chs     =那种场面要是被人看见可就不妙了。为了让他们停下来，我敲了敲车窗。
+
+index=3226
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=35
+  original=美雨は正気に戻って動転しているクラスメートの肩を優しく抱くと、母親\rがするように優しく愛撫した。
+  chs     =美雨温柔地搂住那个回过神来、正惊慌失措的同学，像母亲一般轻轻安抚着她。
+
+index=3227
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=35
+  original=美雨は正気に戻って動転しているクラスメートの肩を優しく抱くと、母親\rがするように優しく愛撫した。
+  chs     =美雨温柔地搂住那个回过神来、正惊慌失措的同学，像母亲一般轻轻安抚着她。
+
+index=3236
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=26
+  original=あの子が美雨に取り付けられた貞操帯を見たらどんなリアクションをする\rだろう。
+  chs     =要是那孩子看到戴在美雨身上的贞操带，会是什么反应呢。
+
+index=3237
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=26
+  original=あの子が美雨に取り付けられた貞操帯を見たらどんなリアクションをする\rだろう。
+  chs     =要是那孩子看到戴在美雨身上的贞操带，会是什么反应呢。
+
+index=3364
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=55
+  original=僕は美雨が動く事で発散されてくる若い匂いで少なからず勃起していたが、\r楽しみは後に取っておく事にして作業に集中した。
+  chs     =美雨挣扎时散发出的那股少女特有的青涩香气，让我不自觉地起了反应。但我还是决定把乐趣留到后面，专心于手头的工作。
+
+index=3365
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=55
+  original=僕は美雨が動く事で発散されてくる若い匂いで少なからず勃起していたが、\r楽しみは後に取っておく事にして作業に集中した。
+  chs     =美雨挣扎时散发出的那股少女特有的青涩香气，让我不自觉地起了反应。但我还是决定把乐趣留到后面，专心于手头的工作。
+
+index=3370
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=僕は今すぐむしゃぶりついて舌を入れ、ほじくり回したいという欲求に打\rち勝ち、貞操帯の四つの鍵をかけ終えた。
+  chs     =我想立刻扑上去舔弄，用舌头将里面搅个天翻地覆——我强压下这种冲动，锁上了贞操带的最后四道锁。
+
+index=3371
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=僕は今すぐむしゃぶりついて舌を入れ、ほじくり回したいという欲求に打\rち勝ち、貞操帯の四つの鍵をかけ終えた。
+  chs     =我想立刻扑上去舔弄，用舌头将里面搅个天翻地覆——我强压下这种冲动，锁上了贞操带的最后四道锁。
+
+index=3529
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=51 chs_len=46
+  original=からかわれて機嫌を悪くしたのか、そっぽを向いてしまった。可愛い妹に\r嫌われたくない僕が何をしたかというと
+  chs     =也许是被捉弄得不高兴了，她把脸扭向了一边。至于我不希望被可爱的妹妹讨厌，所以我做了什么呢——
+
+index=3530
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=51 chs_len=46
+  original=からかわれて機嫌を悪くしたのか、そっぽを向いてしまった。可愛い妹に\r嫌われたくない僕が何をしたかというと
+  chs     =也许是被捉弄得不高兴了，她把脸扭向了一边。至于我不希望被可爱的妹妹讨厌，所以我做了什么呢——
+
+index=3535
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=54 chs_len=39
+  original=僕が拾い上げた物体はスイッチ一つで球状に加工されたプラスチックが激\rしく振動するというファンシーな玩具だった。
+  chs     =我捡起的那个物体，是个只要按下一个开关，球状的塑料外壳就会剧烈震动的奇妙玩具。
+
+index=3536
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=54 chs_len=39
+  original=僕が拾い上げた物体はスイッチ一つで球状に加工されたプラスチックが激\rしく振動するというファンシーな玩具だった。
+  chs     =我捡起的那个物体，是个只要按下一个开关，球状的塑料外壳就会剧烈震动的奇妙玩具。
+
+index=3541
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=46 chs_len=40
+  original=頑なに兄との会話を拒絶する妹の心を溶かそうと、僕は玩具をマックスに\r振動させて美雨に近付けた。
+  chs     =为了融化顽固拒绝与哥哥交流的妹妹的心房，我将玩具的震动开到最大，朝美雨凑了过去。
+
+index=3542
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=46 chs_len=40
+  original=頑なに兄との会話を拒絶する妹の心を溶かそうと、僕は玩具をマックスに\r振動させて美雨に近付けた。
+  chs     =为了融化顽固拒绝与哥哥交流的妹妹的心房，我将玩具的震动开到最大，朝美雨凑了过去。
+
+index=3627
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=28
+  original=乱暴に破られた繊維の隙間からプルンとした質感のおっぱいが顔を覗かせ\rる。
+  chs     =在被粗暴撕开的纤维缝隙中，那一对质感软弹的胸部露了出来。
+
+index=3628
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=28
+  original=乱暴に破られた繊維の隙間からプルンとした質感のおっぱいが顔を覗かせ\rる。
+  chs     =在被粗暴撕开的纤维缝隙中，那一对质感软弹的胸部露了出来。
+
+index=3675
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=28
+  original=服の上からである。指先がちょんと触れただけで美雨は激しく身体をくね\rらせた。
+  chs     =还隔着衣服。仅仅是指尖轻轻一点，美雨便剧烈地扭动起身体。
+
+index=3676
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=28
+  original=服の上からである。指先がちょんと触れただけで美雨は激しく身体をくね\rらせた。
+  chs     =还隔着衣服。仅仅是指尖轻轻一点，美雨便剧烈地扭动起身体。
+
+index=3715
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=31
+  original=その貞操観念には感動を覚えるが、唇がないと言うのでは何とも物足りな\rい。
+  chs     =虽然这种贞操观念令人感动，但要是亲不到嘴唇，总觉得缺了点什么。
+
+index=3716
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=31
+  original=その貞操観念には感動を覚えるが、唇がないと言うのでは何とも物足りな\rい。
+  chs     =虽然这种贞操观念令人感动，但要是亲不到嘴唇，总觉得缺了点什么。
+
+index=3733
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=35
+  original=十分に美雨の口内に唾液を注ぎ込み、また美雨の味を堪能し尽くして僕は\r舌を引き抜いた。
+  chs     =我往美雨的口腔中灌入足量的唾液，在彻底品尝够她的味道后，才抽回了舌头。
+
+index=3734
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=35
+  original=十分に美雨の口内に唾液を注ぎ込み、また美雨の味を堪能し尽くして僕は\r舌を引き抜いた。
+  chs     =我往美雨的口腔中灌入足量的唾液，在彻底品尝够她的味道后，才抽回了舌头。
+
+index=3961
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=46
+  original=体の自由を奪ってひたすら犯しまくる。既にグチョグチョになったアソコ\rから大量の汁が溢れ出てくる。
+  chs     =我剥夺了她身体的自由，只顾埋头不停地侵犯。从那早已变得泥泞不堪的私处，正不断溢出大量的汁水。
+
+index=3962
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=46
+  original=体の自由を奪ってひたすら犯しまくる。既にグチョグチョになったアソコ\rから大量の汁が溢れ出てくる。
+  chs     =我剥夺了她身体的自由，只顾埋头不停地侵犯。从那早已变得泥泞不堪的私处，正不断溢出大量的汁水。
+
+index=4199
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=37
+  original=動物に変わっていく美雨を愛おしく感じながら下から柔らかい胸を鷲掴み\rにした。
+  chs     =看着美雨变得宛如野兽般忘我，我怜爱不已，从下方用力抓住了她那对柔软的乳房。
+
+index=4200
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=37
+  original=動物に変わっていく美雨を愛おしく感じながら下から柔らかい胸を鷲掴み\rにした。
+  chs     =看着美雨变得宛如野兽般忘我，我怜爱不已，从下方用力抓住了她那对柔软的乳房。
+
+index=4245
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=83 chs_len=79
+  original=酔っぱらっていても美雨を傷付けた事くらいは分かった。しかし同時にや\rけくそな思いもあった。僕は美雨に取り返しのつかないひどい事をした。今更\r細かい事を気にするのも滑稽だ。
+  chs     =即便是醉了，我也清楚自己伤透了美雨的心。但与此同时，内心也涌起一股自暴自弃的冲动。反正我对美雨已经做了无法挽回的坏事，事到如今再去顾虑细节，反而显得滑稽可笑。
+
+index=4246
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=83 chs_len=79
+  original=酔っぱらっていても美雨を傷付けた事くらいは分かった。しかし同時にや\rけくそな思いもあった。僕は美雨に取り返しのつかないひどい事をした。今更\r細かい事を気にするのも滑稽だ。
+  chs     =即便是醉了，我也清楚自己伤透了美雨的心。但与此同时，内心也涌起一股自暴自弃的冲动。反正我对美雨已经做了无法挽回的坏事，事到如今再去顾虑细节，反而显得滑稽可笑。
+
+index=4311
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=35
+  original=浴衣をはだけて固くそそり立ったモノを取り出すと、志摩子さんの目が輝\rく。
+  chs     =当我敞开浴衣，掏出那根坚硬挺立的物事时，志摩子小姐的眼睛顿时亮了起来。
+
+index=4312
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=35
+  original=浴衣をはだけて固くそそり立ったモノを取り出すと、志摩子さんの目が輝\rく。
+  chs     =当我敞开浴衣，掏出那根坚硬挺立的物事时，志摩子小姐的眼睛顿时亮了起来。
+
+index=4329
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=志摩子さんの僕を吸う力が強くなる。どうやら相当おっぱいが感じるらし\rい。
+  chs     =志摩子小姐吮吸我的力道加重了。看来胸部的刺激让她非常有感觉。
+
+index=4330
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=志摩子さんの僕を吸う力が強くなる。どうやら相当おっぱいが感じるらし\rい。
+  chs     =志摩子小姐吮吸我的力道加重了。看来胸部的刺激让她非常有感觉。
+
+index=4333
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=29
+  original=ピンク色の乳首が固く立ち上がり、志摩子さんは今日何度目かの絶頂に達\rした。
+  chs     =粉色的乳头硬硬地挺立着，志摩子小姐迎来了今天的第几次高潮。
+
+index=4334
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=29
+  original=ピンク色の乳首が固く立ち上がり、志摩子さんは今日何度目かの絶頂に達\rした。
+  chs     =粉色的乳头硬硬地挺立着，志摩子小姐迎来了今天的第几次高潮。
+
+index=4407
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=僕の両足は悪魔にでも魅入られたように、志摩子さんの部屋へ向かってい\rた。
+  chs     =我的双脚仿佛受了恶魔蛊惑一般，径直朝着志摩子小姐的房间走去。
+
+index=4408
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=僕の両足は悪魔にでも魅入られたように、志摩子さんの部屋へ向かってい\rた。
+  chs     =我的双脚仿佛受了恶魔蛊惑一般，径直朝着志摩子小姐的房间走去。
+
+index=4415
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=29
+  original=このままここにいて人に見られるのもまずい気がしたので、僕は思い切っ\rて部屋に入った。
+  chs     =我觉得继续待在这里被人看到也不太好，便心一横，走进了房间。
+
+index=4469
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=女性は僕をお湯の中に戻すと、腕を持ったまま自分も湯に入ったのである。\rぷるぷるとおっぱいを揺すぶりながら。
+  chs     =那名女性把我拽回了水中，就这样抓着我的手臂，自己也跨进了浴池。胸前的丰盈也随着动作一阵乱颤。
+
+index=4470
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=女性は僕をお湯の中に戻すと、腕を持ったまま自分も湯に入ったのである。\rぷるぷるとおっぱいを揺すぶりながら。
+  chs     =那名女性把我拽回了水中，就这样抓着我的手臂，自己也跨进了浴池。胸前的丰盈也随着动作一阵乱颤。
+
+index=4489
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=41
+  original=恐ろしくなって逃げたいが、ここで逃げるのはもっと恐ろしい事の始まり\rのような気がした。
+  chs     =我感到一阵恐惧，很想拔腿就跑，但直觉告诉我，如果现在逃走，恐怕会引发更恐怖的后果。
+
+index=4490
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=41
+  original=恐ろしくなって逃げたいが、ここで逃げるのはもっと恐ろしい事の始まり\rのような気がした。
+  chs     =我感到一阵恐惧，很想拔腿就跑，但直觉告诉我，如果现在逃走，恐怕会引发更恐怖的后果。
+
+index=4721
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=40
+  original=美雨の横顔を見ると寒くなった。僕が妹レンタルで満たした物は性欲だけ\rだったのだろうか。
+  chs     =看着美雨的侧脸，我不禁感到一阵寒意。我通过妹妹租赁所填补的，难道真的只有性欲吗？
+
+index=4722
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=40
+  original=美雨の横顔を見ると寒くなった。僕が妹レンタルで満たした物は性欲だけ\rだったのだろうか。
+  chs     =看着美雨的侧脸，我不禁感到一阵寒意。我通过妹妹租赁所填补的，难道真的只有性欲吗？
+
+index=4933
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=35
+  original=「あぁ…この香ばしい匂い。女性が人生の中で最も輝く時の匂いだ。はぁは\r　ぁ」
+  chs     =「啊……这股芳香。这是女性在人生中最闪耀时才会有的气味。呼……呼……」
+
+index=4934
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=35
+  original=「あぁ…この香ばしい匂い。女性が人生の中で最も輝く時の匂いだ。はぁは\r　ぁ」
+  chs     =「啊……这股芳香。这是女性在人生中最闪耀时才会有的气味。呼……呼……」
+
+index=4939
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=34
+  original=興奮状態の先生は美雨のお尻に顔を埋めると、ふがふがと激しく呼吸を始\rめた。大丈夫か？
+  chs     =处于兴奋状态的医生将脸埋进美雨的屁股，开始剧烈地喘着粗气。没问题吧？
+
+index=4940
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=34
+  original=興奮状態の先生は美雨のお尻に顔を埋めると、ふがふがと激しく呼吸を始\rめた。大丈夫か？
+  chs     =处于兴奋状态的医生将脸埋进美雨的屁股，开始剧烈地喘着粗气。没问题吧？
+
+index=4965
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=44 chs_len=38
+  original=先生は先程のカプセルを唾液と愛液でベチョベチョになった美雨の尻穴に\rぐりぐりとねじ込んだ。
+  chs     =医生将刚才的胶囊，用力地旋转着塞进了因唾液和爱液而变得湿漉漉的美雨的后穴中。
+
+index=4966
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=44 chs_len=38
+  original=先生は先程のカプセルを唾液と愛液でベチョベチョになった美雨の尻穴に\rぐりぐりとねじ込んだ。
+  chs     =医生将刚才的胶囊，用力地旋转着塞进了因唾液和爱液而变得湿漉漉的美雨的后穴中。
+
+index=5231
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=60 chs_len=47
+  original=なぜだか切ない思いでいっぱいになった。たしかに手っ取り早いかも知れ\rない。しかし内臓が弱っている時にそれでは逆効果である。
+  chs     =不知为何，心中涌起了一股难以言喻的酸涩。那种做法确实省事，但在身体虚弱的时候，反而会适得其反。
+
+index=5232
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=60 chs_len=47
+  original=なぜだか切ない思いでいっぱいになった。たしかに手っ取り早いかも知れ\rない。しかし内臓が弱っている時にそれでは逆効果である。
+  chs     =不知为何，心中涌起了一股难以言喻的酸涩。那种做法确实省事，但在身体虚弱的时候，反而会适得其反。
+
+index=5233
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=32
+  original=やはり栄養という物はナチュラルに吸収して欲しい。人は機械ではないの\rだ。
+  chs     =营养这种东西，果然还是希望能以自然的方式吸收。毕竟人又不是机器。
+
+index=5234
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=33
+  original=やはり栄養という物はナチュラルに吸収して欲しい。人は機械ではないの\rだ。
+  chs     =营养这种东西，果然还是希望能以自然的方式吸收。毕竟人又不是机器向。
+
+index=5241
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=72 chs_len=58
+  original=見た目何だか分からない奇妙な料理を美雨は喜んで食べた。きっと見た目\r何だか分からない事が余計な先入観を生まず、逆に好奇心をそそったのかも知\rれない。
+  chs     =看着那碗卖相不明的奇妙料理，美雨吃得很香。或许正因为看不出原形，才没让她产生先入为主的偏见，反而勾起了她的好奇心吧。
+
+index=5242
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=72 chs_len=58
+  original=見た目何だか分からない奇妙な料理を美雨は喜んで食べた。きっと見た目\r何だか分からない事が余計な先入観を生まず、逆に好奇心をそそったのかも知\rれない。
+  chs     =看着那碗卖相不明的奇妙料理，美雨吃得很香。或许正因为看不出原形，才没让她产生先入为主的偏见，反而勾起了她的好奇心吧。
+
+index=5265
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=38
+  original=僕と関わるうちに美雨は見たくなかった新しい自分を見させられて混乱し\rている。
+  chs     =在和我相处的过程中，美雨被迫直面了她并不想看到的另一个自己，现在正陷入混乱。
+
+index=5266
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=38
+  original=僕と関わるうちに美雨は見たくなかった新しい自分を見させられて混乱し\rている。
+  chs     =在和我相处的过程中，美雨被迫直面了她并不想看到的另一个自己，现在正陷入混乱。
+
+index=5267
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=24
+  original=だから僕は、美雨を家の外に連れ出して来られた。逃げないと言う確信が\rあったから。
+  chs     =所以我才敢把美雨带到外面。因为我确信她不会逃跑。
+
+index=5268
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=24
+  original=だから僕は、美雨を家の外に連れ出して来られた。逃げないと言う確信が\rあったから。
+  chs     =所以我才敢把美雨带到外面。因为我确信她不会逃跑。
+
+index=5467
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=37
+  original=一応、美雨も僕の手を止めようとするのだが、意志は弱い。期待している\rのだ。
+  chs     =虽然美雨也象征性地想要拦住我的手，但抵抗却显得软弱无力。她其实是在期待着。
+
+index=5468
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=37
+  original=一応、美雨も僕の手を止めようとするのだが、意志は弱い。期待している\rのだ。
+  chs     =虽然美雨也象征性地想要拦住我的手，但抵抗却显得软弱无力。她其实是在期待着。
+
+index=5495
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=27
+  original=腹筋が激しく痙攣すると、襞の奥から透明な液体がピュピュッと放射され\rた。
+  chs     =随着腹肌的一阵剧烈痉挛，透明的液体从肉褶深处喷射而出。
+
+index=5496
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=27
+  original=腹筋が激しく痙攣すると、襞の奥から透明な液体がピュピュッと放射され\rた。
+  chs     =随着腹肌的一阵剧烈痉挛，透明的液体从肉褶深处喷射而出。
+
+index=5577
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=31
+  original=テーブルには二人分の料理。しかし一方は手付かずのまま冷えていくのを\r待っていた。
+  chs     =餐桌上摆着两人的饭菜。然而其中一份却无人动过，只是静静地变凉。
+
+index=5578
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=31
+  original=テーブルには二人分の料理。しかし一方は手付かずのまま冷えていくのを\r待っていた。
+  chs     =餐桌上摆着两人的饭菜。然而其中一份却无人动过，只是静静地变凉。
+
+index=5581
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=37
+  original=自分が死ぬ事が一番僕を困らせると言う事を知っているのだろうか。美雨\rは食事を摂らない事で僕への反撃としたようだった。
+  chs     =她是知道自己的死最能让我为难吗？美雨似乎是想通过拒不进食，来对我发起反击。
+
+index=5582
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=37
+  original=自分が死ぬ事が一番僕を困らせると言う事を知っているのだろうか。美雨\rは食事を摂らない事で僕への反撃としたようだった。
+  chs     =她是知道自己的死最能让我为难吗？美雨似乎是想通过拒不进食，来对我发起反击。
+
+index=5611
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=43
+  original=美雨は僕の作ったオムレツをあっという間に平らげた。一口なんて言って\rいたが、やはり相当お腹が減っていたのだろう。
+  chs     =美雨转眼间就把我做的煎蛋卷吃了个精光。虽然之前嘴上说着只吃一口，看来果然还是饿坏了吧。
+
+index=5612
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=43
+  original=美雨は僕の作ったオムレツをあっという間に平らげた。一口なんて言って\rいたが、やはり相当お腹が減っていたのだろう。
+  chs     =美雨转眼间就把我做的煎蛋卷吃了个精光。虽然之前嘴上说着只吃一口，看来果然还是饿坏了吧。
+
+index=5763
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=40 chs_len=35
+  original=その寝姿に覆い被さると、足を美雨の股に潜り込ませ、手は胸や背中を激\rしく愛撫した。
+  chs     =我复上那具睡躯，双腿挤进美雨的腿间，双手开始激烈地爱抚她的胸口与背部。
+
+index=5764
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=40 chs_len=35
+  original=その寝姿に覆い被さると、足を美雨の股に潜り込ませ、手は胸や背中を激\rしく愛撫した。
+  chs     =我复上那具睡躯，双腿挤进美雨的腿间，双手开始激烈地爱抚她的胸口与背部。
+
+index=5809
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=25
+  original=半開きになった可愛らしい口を見ているうちに僕は我慢ならなくなってき\rた。
+  chs     =盯着她那微微张开的可爱小嘴，我渐渐变得按捺不住了。
+
+index=5810
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=25
+  original=半開きになった可愛らしい口を見ているうちに僕は我慢ならなくなってき\rた。
+  chs     =盯着她那微微张开的可爱小嘴，我渐渐变得按捺不住了。
+
+index=5849
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=56 chs_len=49
+  original=先から汁も出ているはずだ。いってしまいそうになる。この快感に永遠に\r浸っていたいがこればっかりはどうしようもない。
+  chs     =前端应该已经渗出液体了。感觉快要去了……虽然很想永远沉溺在这一刻的快感中，但这事儿根本控制不住啊。
+
+index=5850
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=56 chs_len=49
+  original=先から汁も出ているはずだ。いってしまいそうになる。この快感に永遠に\r浸っていたいがこればっかりはどうしようもない。
+  chs     =前端应该已经渗出液体了。感觉快要去了……虽然很想永远沉溺在这一刻的快感中，但这事儿根本控制不住啊。
+
+index=5859
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=43
+  original=僕は自分でも驚く程色っぽい声を出して射精した。頭がボーっとなるくら\rいの快感であった。
+  chs     =我发出了连自己都感到惊讶的销魂声音，射了出来。那股快感强烈得让我的脑袋都变得晕乎乎的。
+
+index=5860
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=43
+  original=僕は自分でも驚く程色っぽい声を出して射精した。頭がボーっとなるくら\rいの快感であった。
+  chs     =我发出了连自己都感到惊讶的销魂声音，射了出来。那股快感强烈得让我的脑袋都变得晕乎乎的。
+
+index=5919
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=26
+  original=僕は暴れる四肢を押さえつけ、美雨のピンク色の乳首をこれでもかという\rくらい強く吸った。
+  chs     =我死死按住她挣扎的四肢，拼命吮吸着美雨粉红色的乳头。
+
+index=5920
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=26
+  original=僕は暴れる四肢を押さえつけ、美雨のピンク色の乳首をこれでもかという\rくらい強く吸った。
+  chs     =我死死按住她挣扎的四肢，拼命吮吸着美雨粉红色的乳头。
+
+index=6099
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=43 chs_len=34
+  original=自分の腕の中で、泣き叫びながら犯される女の子を前に、僕は欲望の虜に\rなってしまっていた。
+  chs     =面对在自己怀中，一边哭喊着一边被侵犯的女孩，我早已沦为了欲望的俘虏。
+
+index=6100
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=43 chs_len=34
+  original=自分の腕の中で、泣き叫びながら犯される女の子を前に、僕は欲望の虜に\rなってしまっていた。
+  chs     =面对在自己怀中，一边哭喊着一边被侵犯的女孩，我早已沦为了欲望的俘虏。
+
+index=6393
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=33
+  original=「妹なんだからそれぐらいいいじゃない。暖まってから帰っても遅くないだ\r　ろ？」
+  chs     =「既然是我妹妹，这点小事就别客气了。泡暖和了再回去也不迟，对吧？」
+
+index=6394
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=33
+  original=「妹なんだからそれぐらいいいじゃない。暖まってから帰っても遅くないだ\r　ろ？」
+  chs     =「既然是我妹妹，这点小事就别客气了。泡暖和了再回去也不迟，对吧？」
+
+index=6505
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=59 chs_len=45
+  original=「お母さん海外にいるんだってね。仕事熱心だ。子供をほったらかしにして\r　大企業と渡り合うのはさぞかしやり甲斐あるだろうね」
+  chs     =「听说你妈妈在国外？还真是事业心重啊。丢下孩子不管，去和那些大企业周旋，想必很有成就感吧」
+
+index=6506
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=59 chs_len=45
+  original=「お母さん海外にいるんだってね。仕事熱心だ。子供をほったらかしにして\r　大企業と渡り合うのはさぞかしやり甲斐あるだろうね」
+  chs     =「听说你妈妈在国外？还真是事业心重啊。丢下孩子不管，去和那些大企业周旋，想必很有成就感吧」
+
+index=6533
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=44
+  original=僕達が二度と会う事はなかった。短い間だったが、二人は本当の兄妹に近\r付けただろうか。
+  chs     =我们从此再也没有见过面。虽然相处的时间很短暂，但我们两人是否变得更像真正的兄妹了一些呢？
+
+index=6534
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=44
+  original=僕達が二度と会う事はなかった。短い間だったが、二人は本当の兄妹に近\r付けただろうか。
+  chs     =我们从此再也没有见过面。虽然相处的时间很短暂，但我们两人是否变得更像真正的兄妹了一些呢？
+
+index=6535
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=23
+  original=楽しい時間はあっという間に過ぎていく。時計は１１時になろうとしてい\rた。
+  chs     =快乐的时光总是转瞬即逝。时间已经快到十一点了。
+
+index=6536
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=23
+  original=楽しい時間はあっという間に過ぎていく。時計は１１時になろうとしてい\rた。
+  chs     =快乐的时光总是转瞬即逝。时间已经快到十一点了。
+
+index=6706
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[16]
+  original_len=73 chs_len=40
+  original=「こちらマジックミラーとなっておりまして、あちら側からは私達の姿は見\r　えないようになっております。どうぞごゆっくり、ご自分に合った妹をお探し\r　下さい」
+  chs     =「这里装的是单面镜，对面是看不见\r我们这边的。请您慢慢观察，寻找最适合您的妹妹吧」
+
+index=6707
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[16]
+  original_len=73 chs_len=40
+  original=「こちらマジックミラーとなっておりまして、あちら側からは私達の姿は見\r　えないようになっております。どうぞごゆっくり、ご自分に合った妹をお探し\r　下さい」
+  chs     =「这里装的是单面镜，对面是看不见\r我们这边的。请您慢慢观察，寻找最适合您的妹妹吧」
+
+
+
+
+
+
+
+
+[2] CR count mismatch both directions: 115
+
+index=334
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[18]
+  original_len=74 chs_len=48
+  original=「妹レンタルの御利用、誠に有難うございます。本日、レンタルの期限が切\r　れましたので、お客様にご足労願うのも恐縮と思い、こうして伺わせていただ\r　きました」
+  chs     =「衷心感谢您租借妹妹。今日租约已经到\r　期，考虑到让您亲自跑一趟实在过意不去，我们便这样登门拜访了」
+
+index=335
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[18]
+  original_len=74 chs_len=48
+  original=「妹レンタルの御利用、誠に有難うございます。本日、レンタルの期限が切\r　れましたので、お客様にご足労願うのも恐縮と思い、こうして伺わせていただ\r　きました」
+  chs     =「衷心感谢您租借妹妹。今日租约已经到\r　期，考虑到让您亲自跑一趟实在过意不去，我们便这样登门拜访了」
+
+index=352
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=63 chs_len=55
+  original=記憶を失うきっかけになった事故。僕の嘘。そして妹レンタルの存在。妹\rレンタルは「お手伝いさんの派遣会社のような物」としておいた。
+  chs     =导致失去记忆的那场事故，我的谎言，以及「租借妹妹」的存在。我把「租借妹妹」解释成了类似「家政派遣公司」的东西。
+
+index=353
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=63 chs_len=55
+  original=記憶を失うきっかけになった事故。僕の嘘。そして妹レンタルの存在。妹\rレンタルは「お手伝いさんの派遣会社のような物」としておいた。
+  chs     =导致失去记忆的那场事故，我的谎言，以及「租借妹妹」的存在。我把「租借妹妹」解释成了类似「家政派遣公司」的东西。
+
+index=356
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[29]
+  original_len=87 chs_len=79
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=357
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[29]
+  original_len=87 chs_len=79
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=364
+  original_cr_count=2 positions=[34, 70]
+  chs_cr_count=1 positions=[20]
+  original_len=72 chs_len=42
+  original=「お楽しみいただいていますでしょうか？お客様のレンタル期間がそろそろ\r終了致します。こちらから美雨ちゃんを引き取りに参りますが宜しいでしょう\rか？」
+  chs     =「不知您是否满意？您的租借期限即将到期。\r我们将派人过去接走美雨酱，不知您意下如何？」
+
+index=365
+  original_cr_count=2 positions=[34, 70]
+  chs_cr_count=1 positions=[20]
+  original_len=72 chs_len=42
+  original=「お楽しみいただいていますでしょうか？お客様のレンタル期間がそろそろ\r終了致します。こちらから美雨ちゃんを引き取りに参りますが宜しいでしょう\rか？」
+  chs     =「不知您是否满意？您的租借期限即将到期。\r我们将派人过去接走美雨酱，不知您意下如何？」
+
+index=456
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=24
+  original=しっとり濡れた割れ目に固く研ぎ澄まされたグロテスクな肉棒が入ってい\rく。
+  chs     =坚硬而狰狞的肉棒，就这么没入了那湿润的缝隙之中。
+
+index=457
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=24
+  original=しっとり濡れた割れ目に固く研ぎ澄まされたグロテスクな肉棒が入ってい\rく。
+  chs     =坚硬而狰狞的肉棒，就这么没入了那湿润的缝隙之中。
+
+index=954
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=61 chs_len=48
+  original=僕は彼が敵か味方か分からず、ただ口を開けてその姿を見ていた。彼は真っ\r赤な顔をして、大変大きな大きな鼻を付けていたのである。
+  chs     =我分不清对方是敌是友，只能张大嘴巴傻傻地盯着。那人长着一张通红的脸，还挂着一只硕大无比的长鼻子。
+
+index=955
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=61 chs_len=48
+  original=僕は彼が敵か味方か分からず、ただ口を開けてその姿を見ていた。彼は真っ\r赤な顔をして、大変大きな大きな鼻を付けていたのである。
+  chs     =我分不清对方是敌是友，只能张大嘴巴傻傻地盯着。那人长着一张通红的脸，还挂着一只硕大无比的长鼻子。
+
+index=1352
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[33]
+  original_len=75 chs_len=50
+  original=ひょっとしたら美雨は警察やおせっかいな市民の手によって保護されてし\rまっているのかもしれない。愛し合う兄妹は国家権力によって引き裂かれてし\rまったわけだ。
+  chs     =搞不好美雨已经被警察或是哪个爱管闲事的市民给保护起来了。也就是说，\r相亲相爱的兄妹被国家权力给拆散了。
+
+index=1353
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[33]
+  original_len=75 chs_len=50
+  original=ひょっとしたら美雨は警察やおせっかいな市民の手によって保護されてし\rまっているのかもしれない。愛し合う兄妹は国家権力によって引き裂かれてし\rまったわけだ。
+  chs     =搞不好美雨已经被警察或是哪个爱管闲事的市民给保护起来了。也就是说，\r相亲相爱的兄妹被国家权力给拆散了。
+
+index=1771
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=54
+  original=僕は一気に美雨の中に突っ込んだ。十分に濡れていたので殆ど抵抗はなかっ\rた。チュルンと美雨の処女は破られたわけだ。
+  chs     =我一口气捅进了美雨的体内。因为那里已经足够湿润，几乎没有感受到阻力。哧溜一下，美雨的处女之身就这样被贯穿了。
+
+index=1772
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=54
+  original=僕は一気に美雨の中に突っ込んだ。十分に濡れていたので殆ど抵抗はなかっ\rた。チュルンと美雨の処女は破られたわけだ。
+  chs     =我一口气捅进了美雨的体内。因为那里已经足够湿润，几乎没有感受到阻力。哧溜一下，美雨的处女之身就这样被贯穿了。
+
+index=1955
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[27]
+  original_len=75 chs_len=57
+  original=しかし抵抗する術はない。一糸纏わぬ姿で股をこれでもかという角度に広\rげられ、あそこをジュプジュプに濡らしてしまった女の子に残された道は一つ\rしかないのだ。
+  chs     =然而已经无力反抗。对于一个一丝不挂、双腿被扳开到极限，\r甚至连那里都已经湿得一塌糊涂的女孩子来说，剩下的路只有一条。
+
+index=1956
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[27]
+  original_len=75 chs_len=57
+  original=しかし抵抗する術はない。一糸纏わぬ姿で股をこれでもかという角度に広\rげられ、あそこをジュプジュプに濡らしてしまった女の子に残された道は一つ\rしかないのだ。
+  chs     =然而已经无力反抗。对于一个一丝不挂、双腿被扳开到极限，\r甚至连那里都已经湿得一塌糊涂的女孩子来说，剩下的路只有一条。
+
+index=2115
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[23]
+  original_len=73 chs_len=59
+  original=どうしよう…やばいやばいやばい。今度ばかりは僕にも良いアイデアは浮\rかばなかった。運転手の姿は既に無く、あ、逃げれば良かったのかと思っても\r既に遅い。
+  chs     =该怎么办……糟了糟了糟了。唯独这次，我也想不出\r什么好主意。司机早已不见踪影，我才反应过来刚才应该逃跑才对，可为时已晚。
+
+index=2116
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=1 positions=[23]
+  original_len=73 chs_len=59
+  original=どうしよう…やばいやばいやばい。今度ばかりは僕にも良いアイデアは浮\rかばなかった。運転手の姿は既に無く、あ、逃げれば良かったのかと思っても\r既に遅い。
+  chs     =该怎么办……糟了糟了糟了。唯独这次，我也想不出\r什么好主意。司机早已不见踪影，我才反应过来刚才应该逃跑才对，可为时已晚。
+
+index=3182
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=45 chs_len=33
+  original=「こんにちは。美雨の兄です。最近こっちに帰ってきたんで妹の買い物にで\r　も付き合おうと思って」
+  chs     =「你们好。我是美雨的哥哥。最近刚回到这边，所以想带妹妹去买点东西」
+
+index=3183
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=45 chs_len=33
+  original=「こんにちは。美雨の兄です。最近こっちに帰ってきたんで妹の買い物にで\r　も付き合おうと思って」
+  chs     =「你们好。我是美雨的哥哥。最近刚回到这边，所以想带妹妹去买点东西」
+
+index=3214
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=32
+  original=さすがにあんな物を見られてはマズイだろう。僕は行為を中断させる為に\r窓ガラスを叩いた。
+  chs     =那种场面要是被人看见可就不妙了。为了让他们停下来，我敲了敲车窗。
+
+index=3215
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=32
+  original=さすがにあんな物を見られてはマズイだろう。僕は行為を中断させる為に\r窓ガラスを叩いた。
+  chs     =那种场面要是被人看见可就不妙了。为了让他们停下来，我敲了敲车窗。
+
+index=3226
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=35
+  original=美雨は正気に戻って動転しているクラスメートの肩を優しく抱くと、母親\rがするように優しく愛撫した。
+  chs     =美雨温柔地搂住那个回过神来、正惊慌失措的同学，像母亲一般轻轻安抚着她。
+
+index=3227
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=35
+  original=美雨は正気に戻って動転しているクラスメートの肩を優しく抱くと、母親\rがするように優しく愛撫した。
+  chs     =美雨温柔地搂住那个回过神来、正惊慌失措的同学，像母亲一般轻轻安抚着她。
+
+index=3236
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=26
+  original=あの子が美雨に取り付けられた貞操帯を見たらどんなリアクションをする\rだろう。
+  chs     =要是那孩子看到戴在美雨身上的贞操带，会是什么反应呢。
+
+index=3237
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=26
+  original=あの子が美雨に取り付けられた貞操帯を見たらどんなリアクションをする\rだろう。
+  chs     =要是那孩子看到戴在美雨身上的贞操带，会是什么反应呢。
+
+index=3364
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=55
+  original=僕は美雨が動く事で発散されてくる若い匂いで少なからず勃起していたが、\r楽しみは後に取っておく事にして作業に集中した。
+  chs     =美雨挣扎时散发出的那股少女特有的青涩香气，让我不自觉地起了反应。但我还是决定把乐趣留到后面，专心于手头的工作。
+
+index=3365
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=55
+  original=僕は美雨が動く事で発散されてくる若い匂いで少なからず勃起していたが、\r楽しみは後に取っておく事にして作業に集中した。
+  chs     =美雨挣扎时散发出的那股少女特有的青涩香气，让我不自觉地起了反应。但我还是决定把乐趣留到后面，专心于手头的工作。
+
+index=3370
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=僕は今すぐむしゃぶりついて舌を入れ、ほじくり回したいという欲求に打\rち勝ち、貞操帯の四つの鍵をかけ終えた。
+  chs     =我想立刻扑上去舔弄，用舌头将里面搅个天翻地覆——我强压下这种冲动，锁上了贞操带的最后四道锁。
+
+index=3371
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=僕は今すぐむしゃぶりついて舌を入れ、ほじくり回したいという欲求に打\rち勝ち、貞操帯の四つの鍵をかけ終えた。
+  chs     =我想立刻扑上去舔弄，用舌头将里面搅个天翻地覆——我强压下这种冲动，锁上了贞操带的最后四道锁。
+
+index=3529
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=51 chs_len=46
+  original=からかわれて機嫌を悪くしたのか、そっぽを向いてしまった。可愛い妹に\r嫌われたくない僕が何をしたかというと
+  chs     =也许是被捉弄得不高兴了，她把脸扭向了一边。至于我不希望被可爱的妹妹讨厌，所以我做了什么呢——
+
+index=3530
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=51 chs_len=46
+  original=からかわれて機嫌を悪くしたのか、そっぽを向いてしまった。可愛い妹に\r嫌われたくない僕が何をしたかというと
+  chs     =也许是被捉弄得不高兴了，她把脸扭向了一边。至于我不希望被可爱的妹妹讨厌，所以我做了什么呢——
+
+index=3535
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=54 chs_len=39
+  original=僕が拾い上げた物体はスイッチ一つで球状に加工されたプラスチックが激\rしく振動するというファンシーな玩具だった。
+  chs     =我捡起的那个物体，是个只要按下一个开关，球状的塑料外壳就会剧烈震动的奇妙玩具。
+
+index=3536
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=54 chs_len=39
+  original=僕が拾い上げた物体はスイッチ一つで球状に加工されたプラスチックが激\rしく振動するというファンシーな玩具だった。
+  chs     =我捡起的那个物体，是个只要按下一个开关，球状的塑料外壳就会剧烈震动的奇妙玩具。
+
+index=3541
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=46 chs_len=40
+  original=頑なに兄との会話を拒絶する妹の心を溶かそうと、僕は玩具をマックスに\r振動させて美雨に近付けた。
+  chs     =为了融化顽固拒绝与哥哥交流的妹妹的心房，我将玩具的震动开到最大，朝美雨凑了过去。
+
+index=3542
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=46 chs_len=40
+  original=頑なに兄との会話を拒絶する妹の心を溶かそうと、僕は玩具をマックスに\r振動させて美雨に近付けた。
+  chs     =为了融化顽固拒绝与哥哥交流的妹妹的心房，我将玩具的震动开到最大，朝美雨凑了过去。
+
+index=3627
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=28
+  original=乱暴に破られた繊維の隙間からプルンとした質感のおっぱいが顔を覗かせ\rる。
+  chs     =在被粗暴撕开的纤维缝隙中，那一对质感软弹的胸部露了出来。
+
+index=3628
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=28
+  original=乱暴に破られた繊維の隙間からプルンとした質感のおっぱいが顔を覗かせ\rる。
+  chs     =在被粗暴撕开的纤维缝隙中，那一对质感软弹的胸部露了出来。
+
+index=3675
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=28
+  original=服の上からである。指先がちょんと触れただけで美雨は激しく身体をくね\rらせた。
+  chs     =还隔着衣服。仅仅是指尖轻轻一点，美雨便剧烈地扭动起身体。
+
+index=3676
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=28
+  original=服の上からである。指先がちょんと触れただけで美雨は激しく身体をくね\rらせた。
+  chs     =还隔着衣服。仅仅是指尖轻轻一点，美雨便剧烈地扭动起身体。
+
+index=3715
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=31
+  original=その貞操観念には感動を覚えるが、唇がないと言うのでは何とも物足りな\rい。
+  chs     =虽然这种贞操观念令人感动，但要是亲不到嘴唇，总觉得缺了点什么。
+
+index=3716
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=31
+  original=その貞操観念には感動を覚えるが、唇がないと言うのでは何とも物足りな\rい。
+  chs     =虽然这种贞操观念令人感动，但要是亲不到嘴唇，总觉得缺了点什么。
+
+index=3733
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=35
+  original=十分に美雨の口内に唾液を注ぎ込み、また美雨の味を堪能し尽くして僕は\r舌を引き抜いた。
+  chs     =我往美雨的口腔中灌入足量的唾液，在彻底品尝够她的味道后，才抽回了舌头。
+
+index=3734
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=35
+  original=十分に美雨の口内に唾液を注ぎ込み、また美雨の味を堪能し尽くして僕は\r舌を引き抜いた。
+  chs     =我往美雨的口腔中灌入足量的唾液，在彻底品尝够她的味道后，才抽回了舌头。
+
+index=3961
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=46
+  original=体の自由を奪ってひたすら犯しまくる。既にグチョグチョになったアソコ\rから大量の汁が溢れ出てくる。
+  chs     =我剥夺了她身体的自由，只顾埋头不停地侵犯。从那早已变得泥泞不堪的私处，正不断溢出大量的汁水。
+
+index=3962
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=47 chs_len=46
+  original=体の自由を奪ってひたすら犯しまくる。既にグチョグチョになったアソコ\rから大量の汁が溢れ出てくる。
+  chs     =我剥夺了她身体的自由，只顾埋头不停地侵犯。从那早已变得泥泞不堪的私处，正不断溢出大量的汁水。
+
+index=4199
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=37
+  original=動物に変わっていく美雨を愛おしく感じながら下から柔らかい胸を鷲掴み\rにした。
+  chs     =看着美雨变得宛如野兽般忘我，我怜爱不已，从下方用力抓住了她那对柔软的乳房。
+
+index=4200
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=37
+  original=動物に変わっていく美雨を愛おしく感じながら下から柔らかい胸を鷲掴み\rにした。
+  chs     =看着美雨变得宛如野兽般忘我，我怜爱不已，从下方用力抓住了她那对柔软的乳房。
+
+index=4245
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=83 chs_len=79
+  original=酔っぱらっていても美雨を傷付けた事くらいは分かった。しかし同時にや\rけくそな思いもあった。僕は美雨に取り返しのつかないひどい事をした。今更\r細かい事を気にするのも滑稽だ。
+  chs     =即便是醉了，我也清楚自己伤透了美雨的心。但与此同时，内心也涌起一股自暴自弃的冲动。反正我对美雨已经做了无法挽回的坏事，事到如今再去顾虑细节，反而显得滑稽可笑。
+
+index=4246
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=83 chs_len=79
+  original=酔っぱらっていても美雨を傷付けた事くらいは分かった。しかし同時にや\rけくそな思いもあった。僕は美雨に取り返しのつかないひどい事をした。今更\r細かい事を気にするのも滑稽だ。
+  chs     =即便是醉了，我也清楚自己伤透了美雨的心。但与此同时，内心也涌起一股自暴自弃的冲动。反正我对美雨已经做了无法挽回的坏事，事到如今再去顾虑细节，反而显得滑稽可笑。
+
+index=4311
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=35
+  original=浴衣をはだけて固くそそり立ったモノを取り出すと、志摩子さんの目が輝\rく。
+  chs     =当我敞开浴衣，掏出那根坚硬挺立的物事时，志摩子小姐的眼睛顿时亮了起来。
+
+index=4312
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=35
+  original=浴衣をはだけて固くそそり立ったモノを取り出すと、志摩子さんの目が輝\rく。
+  chs     =当我敞开浴衣，掏出那根坚硬挺立的物事时，志摩子小姐的眼睛顿时亮了起来。
+
+index=4329
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=志摩子さんの僕を吸う力が強くなる。どうやら相当おっぱいが感じるらし\rい。
+  chs     =志摩子小姐吮吸我的力道加重了。看来胸部的刺激让她非常有感觉。
+
+index=4330
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=志摩子さんの僕を吸う力が強くなる。どうやら相当おっぱいが感じるらし\rい。
+  chs     =志摩子小姐吮吸我的力道加重了。看来胸部的刺激让她非常有感觉。
+
+index=4333
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=29
+  original=ピンク色の乳首が固く立ち上がり、志摩子さんは今日何度目かの絶頂に達\rした。
+  chs     =粉色的乳头硬硬地挺立着，志摩子小姐迎来了今天的第几次高潮。
+
+index=4334
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=29
+  original=ピンク色の乳首が固く立ち上がり、志摩子さんは今日何度目かの絶頂に達\rした。
+  chs     =粉色的乳头硬硬地挺立着，志摩子小姐迎来了今天的第几次高潮。
+
+index=4407
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=僕の両足は悪魔にでも魅入られたように、志摩子さんの部屋へ向かってい\rた。
+  chs     =我的双脚仿佛受了恶魔蛊惑一般，径直朝着志摩子小姐的房间走去。
+
+index=4408
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=30
+  original=僕の両足は悪魔にでも魅入られたように、志摩子さんの部屋へ向かってい\rた。
+  chs     =我的双脚仿佛受了恶魔蛊惑一般，径直朝着志摩子小姐的房间走去。
+
+index=4415
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=29
+  original=このままここにいて人に見られるのもまずい気がしたので、僕は思い切っ\rて部屋に入った。
+  chs     =我觉得继续待在这里被人看到也不太好，便心一横，走进了房间。
+
+index=4469
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=女性は僕をお湯の中に戻すと、腕を持ったまま自分も湯に入ったのである。\rぷるぷるとおっぱいを揺すぶりながら。
+  chs     =那名女性把我拽回了水中，就这样抓着我的手臂，自己也跨进了浴池。胸前的丰盈也随着动作一阵乱颤。
+
+index=4470
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=52 chs_len=46
+  original=女性は僕をお湯の中に戻すと、腕を持ったまま自分も湯に入ったのである。\rぷるぷるとおっぱいを揺すぶりながら。
+  chs     =那名女性把我拽回了水中，就这样抓着我的手臂，自己也跨进了浴池。胸前的丰盈也随着动作一阵乱颤。
+
+index=4489
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=41
+  original=恐ろしくなって逃げたいが、ここで逃げるのはもっと恐ろしい事の始まり\rのような気がした。
+  chs     =我感到一阵恐惧，很想拔腿就跑，但直觉告诉我，如果现在逃走，恐怕会引发更恐怖的后果。
+
+index=4490
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=41
+  original=恐ろしくなって逃げたいが、ここで逃げるのはもっと恐ろしい事の始まり\rのような気がした。
+  chs     =我感到一阵恐惧，很想拔腿就跑，但直觉告诉我，如果现在逃走，恐怕会引发更恐怖的后果。
+
+index=4721
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=40
+  original=美雨の横顔を見ると寒くなった。僕が妹レンタルで満たした物は性欲だけ\rだったのだろうか。
+  chs     =看着美雨的侧脸，我不禁感到一阵寒意。我通过妹妹租赁所填补的，难道真的只有性欲吗？
+
+index=4722
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=40
+  original=美雨の横顔を見ると寒くなった。僕が妹レンタルで満たした物は性欲だけ\rだったのだろうか。
+  chs     =看着美雨的侧脸，我不禁感到一阵寒意。我通过妹妹租赁所填补的，难道真的只有性欲吗？
+
+index=4933
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=35
+  original=「あぁ…この香ばしい匂い。女性が人生の中で最も輝く時の匂いだ。はぁは\r　ぁ」
+  chs     =「啊……这股芳香。这是女性在人生中最闪耀时才会有的气味。呼……呼……」
+
+index=4934
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=35
+  original=「あぁ…この香ばしい匂い。女性が人生の中で最も輝く時の匂いだ。はぁは\r　ぁ」
+  chs     =「啊……这股芳香。这是女性在人生中最闪耀时才会有的气味。呼……呼……」
+
+index=4939
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=34
+  original=興奮状態の先生は美雨のお尻に顔を埋めると、ふがふがと激しく呼吸を始\rめた。大丈夫か？
+  chs     =处于兴奋状态的医生将脸埋进美雨的屁股，开始剧烈地喘着粗气。没问题吧？
+
+index=4940
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=34
+  original=興奮状態の先生は美雨のお尻に顔を埋めると、ふがふがと激しく呼吸を始\rめた。大丈夫か？
+  chs     =处于兴奋状态的医生将脸埋进美雨的屁股，开始剧烈地喘着粗气。没问题吧？
+
+index=4965
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=44 chs_len=38
+  original=先生は先程のカプセルを唾液と愛液でベチョベチョになった美雨の尻穴に\rぐりぐりとねじ込んだ。
+  chs     =医生将刚才的胶囊，用力地旋转着塞进了因唾液和爱液而变得湿漉漉的美雨的后穴中。
+
+index=4966
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=44 chs_len=38
+  original=先生は先程のカプセルを唾液と愛液でベチョベチョになった美雨の尻穴に\rぐりぐりとねじ込んだ。
+  chs     =医生将刚才的胶囊，用力地旋转着塞进了因唾液和爱液而变得湿漉漉的美雨的后穴中。
+
+index=5231
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=60 chs_len=47
+  original=なぜだか切ない思いでいっぱいになった。たしかに手っ取り早いかも知れ\rない。しかし内臓が弱っている時にそれでは逆効果である。
+  chs     =不知为何，心中涌起了一股难以言喻的酸涩。那种做法确实省事，但在身体虚弱的时候，反而会适得其反。
+
+index=5232
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=60 chs_len=47
+  original=なぜだか切ない思いでいっぱいになった。たしかに手っ取り早いかも知れ\rない。しかし内臓が弱っている時にそれでは逆効果である。
+  chs     =不知为何，心中涌起了一股难以言喻的酸涩。那种做法确实省事，但在身体虚弱的时候，反而会适得其反。
+
+index=5233
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=32
+  original=やはり栄養という物はナチュラルに吸収して欲しい。人は機械ではないの\rだ。
+  chs     =营养这种东西，果然还是希望能以自然的方式吸收。毕竟人又不是机器。
+
+index=5234
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=33
+  original=やはり栄養という物はナチュラルに吸収して欲しい。人は機械ではないの\rだ。
+  chs     =营养这种东西，果然还是希望能以自然的方式吸收。毕竟人又不是机器向。
+
+index=5241
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=72 chs_len=58
+  original=見た目何だか分からない奇妙な料理を美雨は喜んで食べた。きっと見た目\r何だか分からない事が余計な先入観を生まず、逆に好奇心をそそったのかも知\rれない。
+  chs     =看着那碗卖相不明的奇妙料理，美雨吃得很香。或许正因为看不出原形，才没让她产生先入为主的偏见，反而勾起了她的好奇心吧。
+
+index=5242
+  original_cr_count=2 positions=[33, 69]
+  chs_cr_count=0 positions=[]
+  original_len=72 chs_len=58
+  original=見た目何だか分からない奇妙な料理を美雨は喜んで食べた。きっと見た目\r何だか分からない事が余計な先入観を生まず、逆に好奇心をそそったのかも知\rれない。
+  chs     =看着那碗卖相不明的奇妙料理，美雨吃得很香。或许正因为看不出原形，才没让她产生先入为主的偏见，反而勾起了她的好奇心吧。
+
+index=5265
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=38
+  original=僕と関わるうちに美雨は見たくなかった新しい自分を見させられて混乱し\rている。
+  chs     =在和我相处的过程中，美雨被迫直面了她并不想看到的另一个自己，现在正陷入混乱。
+
+index=5266
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=38
+  original=僕と関わるうちに美雨は見たくなかった新しい自分を見させられて混乱し\rている。
+  chs     =在和我相处的过程中，美雨被迫直面了她并不想看到的另一个自己，现在正陷入混乱。
+
+index=5267
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=24
+  original=だから僕は、美雨を家の外に連れ出して来られた。逃げないと言う確信が\rあったから。
+  chs     =所以我才敢把美雨带到外面。因为我确信她不会逃跑。
+
+index=5268
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=24
+  original=だから僕は、美雨を家の外に連れ出して来られた。逃げないと言う確信が\rあったから。
+  chs     =所以我才敢把美雨带到外面。因为我确信她不会逃跑。
+
+index=5467
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=37
+  original=一応、美雨も僕の手を止めようとするのだが、意志は弱い。期待している\rのだ。
+  chs     =虽然美雨也象征性地想要拦住我的手，但抵抗却显得软弱无力。她其实是在期待着。
+
+index=5468
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=36 chs_len=37
+  original=一応、美雨も僕の手を止めようとするのだが、意志は弱い。期待している\rのだ。
+  chs     =虽然美雨也象征性地想要拦住我的手，但抵抗却显得软弱无力。她其实是在期待着。
+
+index=5495
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=27
+  original=腹筋が激しく痙攣すると、襞の奥から透明な液体がピュピュッと放射され\rた。
+  chs     =随着腹肌的一阵剧烈痉挛，透明的液体从肉褶深处喷射而出。
+
+index=5496
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=27
+  original=腹筋が激しく痙攣すると、襞の奥から透明な液体がピュピュッと放射され\rた。
+  chs     =随着腹肌的一阵剧烈痉挛，透明的液体从肉褶深处喷射而出。
+
+index=5577
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=31
+  original=テーブルには二人分の料理。しかし一方は手付かずのまま冷えていくのを\r待っていた。
+  chs     =餐桌上摆着两人的饭菜。然而其中一份却无人动过，只是静静地变凉。
+
+index=5578
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=39 chs_len=31
+  original=テーブルには二人分の料理。しかし一方は手付かずのまま冷えていくのを\r待っていた。
+  chs     =餐桌上摆着两人的饭菜。然而其中一份却无人动过，只是静静地变凉。
+
+index=5581
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=37
+  original=自分が死ぬ事が一番僕を困らせると言う事を知っているのだろうか。美雨\rは食事を摂らない事で僕への反撃としたようだった。
+  chs     =她是知道自己的死最能让我为难吗？美雨似乎是想通过拒不进食，来对我发起反击。
+
+index=5582
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=57 chs_len=37
+  original=自分が死ぬ事が一番僕を困らせると言う事を知っているのだろうか。美雨\rは食事を摂らない事で僕への反撃としたようだった。
+  chs     =她是知道自己的死最能让我为难吗？美雨似乎是想通过拒不进食，来对我发起反击。
+
+index=5611
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=43
+  original=美雨は僕の作ったオムレツをあっという間に平らげた。一口なんて言って\rいたが、やはり相当お腹が減っていたのだろう。
+  chs     =美雨转眼间就把我做的煎蛋卷吃了个精光。虽然之前嘴上说着只吃一口，看来果然还是饿坏了吧。
+
+index=5612
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=55 chs_len=43
+  original=美雨は僕の作ったオムレツをあっという間に平らげた。一口なんて言って\rいたが、やはり相当お腹が減っていたのだろう。
+  chs     =美雨转眼间就把我做的煎蛋卷吃了个精光。虽然之前嘴上说着只吃一口，看来果然还是饿坏了吧。
+
+index=5763
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=40 chs_len=35
+  original=その寝姿に覆い被さると、足を美雨の股に潜り込ませ、手は胸や背中を激\rしく愛撫した。
+  chs     =我复上那具睡躯，双腿挤进美雨的腿间，双手开始激烈地爱抚她的胸口与背部。
+
+index=5764
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=40 chs_len=35
+  original=その寝姿に覆い被さると、足を美雨の股に潜り込ませ、手は胸や背中を激\rしく愛撫した。
+  chs     =我复上那具睡躯，双腿挤进美雨的腿间，双手开始激烈地爱抚她的胸口与背部。
+
+index=5809
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=25
+  original=半開きになった可愛らしい口を見ているうちに僕は我慢ならなくなってき\rた。
+  chs     =盯着她那微微张开的可爱小嘴，我渐渐变得按捺不住了。
+
+index=5810
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=25
+  original=半開きになった可愛らしい口を見ているうちに僕は我慢ならなくなってき\rた。
+  chs     =盯着她那微微张开的可爱小嘴，我渐渐变得按捺不住了。
+
+index=5849
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=56 chs_len=49
+  original=先から汁も出ているはずだ。いってしまいそうになる。この快感に永遠に\r浸っていたいがこればっかりはどうしようもない。
+  chs     =前端应该已经渗出液体了。感觉快要去了……虽然很想永远沉溺在这一刻的快感中，但这事儿根本控制不住啊。
+
+index=5850
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=56 chs_len=49
+  original=先から汁も出ているはずだ。いってしまいそうになる。この快感に永遠に\r浸っていたいがこればっかりはどうしようもない。
+  chs     =前端应该已经渗出液体了。感觉快要去了……虽然很想永远沉溺在这一刻的快感中，但这事儿根本控制不住啊。
+
+index=5859
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=43
+  original=僕は自分でも驚く程色っぽい声を出して射精した。頭がボーっとなるくら\rいの快感であった。
+  chs     =我发出了连自己都感到惊讶的销魂声音，射了出来。那股快感强烈得让我的脑袋都变得晕乎乎的。
+
+index=5860
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=43
+  original=僕は自分でも驚く程色っぽい声を出して射精した。頭がボーっとなるくら\rいの快感であった。
+  chs     =我发出了连自己都感到惊讶的销魂声音，射了出来。那股快感强烈得让我的脑袋都变得晕乎乎的。
+
+index=5919
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=26
+  original=僕は暴れる四肢を押さえつけ、美雨のピンク色の乳首をこれでもかという\rくらい強く吸った。
+  chs     =我死死按住她挣扎的四肢，拼命吮吸着美雨粉红色的乳头。
+
+index=5920
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=42 chs_len=26
+  original=僕は暴れる四肢を押さえつけ、美雨のピンク色の乳首をこれでもかという\rくらい強く吸った。
+  chs     =我死死按住她挣扎的四肢，拼命吮吸着美雨粉红色的乳头。
+
+index=6099
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=43 chs_len=34
+  original=自分の腕の中で、泣き叫びながら犯される女の子を前に、僕は欲望の虜に\rなってしまっていた。
+  chs     =面对在自己怀中，一边哭喊着一边被侵犯的女孩，我早已沦为了欲望的俘虏。
+
+index=6100
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=43 chs_len=34
+  original=自分の腕の中で、泣き叫びながら犯される女の子を前に、僕は欲望の虜に\rなってしまっていた。
+  chs     =面对在自己怀中，一边哭喊着一边被侵犯的女孩，我早已沦为了欲望的俘虏。
+
+index=6393
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=33
+  original=「妹なんだからそれぐらいいいじゃない。暖まってから帰っても遅くないだ\r　ろ？」
+  chs     =「既然是我妹妹，这点小事就别客气了。泡暖和了再回去也不迟，对吧？」
+
+index=6394
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=37 chs_len=33
+  original=「妹なんだからそれぐらいいいじゃない。暖まってから帰っても遅くないだ\r　ろ？」
+  chs     =「既然是我妹妹，这点小事就别客气了。泡暖和了再回去也不迟，对吧？」
+
+index=6505
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=59 chs_len=45
+  original=「お母さん海外にいるんだってね。仕事熱心だ。子供をほったらかしにして\r　大企業と渡り合うのはさぞかしやり甲斐あるだろうね」
+  chs     =「听说你妈妈在国外？还真是事业心重啊。丢下孩子不管，去和那些大企业周旋，想必很有成就感吧」
+
+index=6506
+  original_cr_count=1 positions=[34]
+  chs_cr_count=0 positions=[]
+  original_len=59 chs_len=45
+  original=「お母さん海外にいるんだってね。仕事熱心だ。子供をほったらかしにして\r　大企業と渡り合うのはさぞかしやり甲斐あるだろうね」
+  chs     =「听说你妈妈在国外？还真是事业心重啊。丢下孩子不管，去和那些大企业周旋，想必很有成就感吧」
+
+index=6533
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=44
+  original=僕達が二度と会う事はなかった。短い間だったが、二人は本当の兄妹に近\r付けただろうか。
+  chs     =我们从此再也没有见过面。虽然相处的时间很短暂，但我们两人是否变得更像真正的兄妹了一些呢？
+
+index=6534
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=41 chs_len=44
+  original=僕達が二度と会う事はなかった。短い間だったが、二人は本当の兄妹に近\r付けただろうか。
+  chs     =我们从此再也没有见过面。虽然相处的时间很短暂，但我们两人是否变得更像真正的兄妹了一些呢？
+
+index=6535
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=23
+  original=楽しい時間はあっという間に過ぎていく。時計は１１時になろうとしてい\rた。
+  chs     =快乐的时光总是转瞬即逝。时间已经快到十一点了。
+
+index=6536
+  original_cr_count=1 positions=[33]
+  chs_cr_count=0 positions=[]
+  original_len=35 chs_len=23
+  original=楽しい時間はあっという間に過ぎていく。時計は１１時になろうとしてい\rた。
+  chs     =快乐的时光总是转瞬即逝。时间已经快到十一点了。
+
+index=6706
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[16]
+  original_len=73 chs_len=40
+  original=「こちらマジックミラーとなっておりまして、あちら側からは私達の姿は見\r　えないようになっております。どうぞごゆっくり、ご自分に合った妹をお探し\r　下さい」
+  chs     =「这里装的是单面镜，对面是看不见\r我们这边的。请您慢慢观察，寻找最适合您的妹妹吧」
+
+index=6707
+  original_cr_count=2 positions=[34, 71]
+  chs_cr_count=1 positions=[16]
+  original_len=73 chs_len=40
+  original=「こちらマジックミラーとなっておりまして、あちら側からは私達の姿は見\r　えないようになっております。どうぞごゆっくり、ご自分に合った妹をお探し\r　下さい」
+  chs     =「这里装的是单面镜，对面是看不见\r我们这边的。请您慢慢观察，寻找最适合您的妹妹吧」
+
+
+[3] Long CHS entries containing CR: 32
+
+index=42
+  chs_len=61 chs_cr_positions=[41]
+  original_len=64 original_cr_positions=[33]
+  original=よって教会でこういう事は…と思ったのだが、僕の分身であり、本体より\rも強固な意志を持つ、オチ○チ○は既にスタンバイオッケーだった。
+  chs     =因此，虽然我觉得在教会里做这种事还是……我虽这么想，但作为我的分身，拥有着比本体更\r强韧意志的‘小丁○’，却早已准备就绪了。
+
+index=43
+  chs_len=61 chs_cr_positions=[41]
+  original_len=64 original_cr_positions=[33]
+  original=よって教会でこういう事は…と思ったのだが、僕の分身であり、本体より\rも強固な意志を持つ、オチ○チ○は既にスタンバイオッケーだった。
+  chs     =因此，虽然我觉得在教会里做这种事还是……我虽这么想，但作为我的分身，拥有着比本体更\r强韧意志的‘小丁○’，却早已准备就绪了。
+
+index=98
+  chs_len=67 chs_cr_positions=[34, 65]
+  original_len=72 original_cr_positions=[33, 69]
+  original=下半身に電気が走ったようになり、美雨の腰が浮いた。僕はそこを腕で抱\rき抱えるようにして、ゆっくりとではあるが、力強くアソコを嘗め、吸い、転\rがした。
+  chs     =一股酥麻感瞬间贯穿下半身，美雨的腰肢不由得挺了起来。我顺势用手臂环抱\r住她，虽然动作缓慢，却极有力地在那儿反复舔弄、吮吸，用舌尖搅\r动着。
+
+index=99
+  chs_len=67 chs_cr_positions=[34, 65]
+  original_len=72 original_cr_positions=[33, 69]
+  original=下半身に電気が走ったようになり、美雨の腰が浮いた。僕はそこを腕で抱\rき抱えるようにして、ゆっくりとではあるが、力強くアソコを嘗め、吸い、転\rがした。
+  chs     =一股酥麻感瞬间贯穿下半身，美雨的腰肢不由得挺了起来。我顺势用手臂环抱\r住她，虽然动作缓慢，却极有力地在那儿反复舔弄、吮吸，用舌尖搅\r动着。
+
+index=356
+  chs_len=79 chs_cr_positions=[29]
+  original_len=87 original_cr_positions=[33, 69]
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=357
+  chs_len=79 chs_cr_positions=[29]
+  original_len=87 original_cr_positions=[33, 69]
+  original=最初は笑って相手にしなかった美雨も、僕がいつまでも「嘘だよーん。び\rびった？」と言わないのでだんだん不安になってきたらしく、その日を境に食\r事の量が減るなど、様々な変化が現れた。
+  chs     =起初美雨只是笑着，并没当真。但看到我迟迟没有说出「骗你的啦\r吓到了吧？」之类的话，她似乎也渐渐不安起来。从那天起，她的食量开始减少，身上也出现了各种各样的变化。
+
+index=1977
+  chs_len=63 chs_cr_positions=[24]
+  original_len=68 original_cr_positions=[33]
+  original=若者達はセックスに夢中で美雨の膣から静かに流れ出した血に気付かない\rでいる。僕は涙を流し、オチ○チ○を固くし、妹が女になる瞬間を見届けた。
+  chs     =那些年轻人正沉溺于性事，完全没注意到从美雨阴道中\r静静流出的鲜血。我流着泪，分身也跟着勃起得生疼，守望着妹妹变成女人的那一瞬间。
+
+index=1978
+  chs_len=63 chs_cr_positions=[24]
+  original_len=68 original_cr_positions=[33]
+  original=若者達はセックスに夢中で美雨の膣から静かに流れ出した血に気付かない\rでいる。僕は涙を流し、オチ○チ○を固くし、妹が女になる瞬間を見届けた。
+  chs     =那些年轻人正沉溺于性事，完全没注意到从美雨阴道中\r静静流出的鲜血。我流着泪，分身也跟着勃起得生疼，守望着妹妹变成女人的那一瞬间。
+
+index=2091
+  chs_len=86 chs_cr_positions=[35, 75]
+  original_len=81 original_cr_positions=[33, 69]
+  original=僕がこっそり美雨の顔を見ると、目から涙が流れていた。男達に犯され続\rけ、あれほど泣いてなお、涙は出ていたのである。しかしその顔は今までに見\rたどの顔より力強く見えた。
+  chs     =我偷偷看了看美雨的脸，泪水正不断从她的眼中涌出。明明遭受了男人们那样的\r凌辱，明明刚才已经哭得那么厉害了，眼泪却还是流个不停。然而，那副神态却比我以往\r见过的任何时候都要坚强。
+
+index=2092
+  chs_len=86 chs_cr_positions=[35, 75]
+  original_len=81 original_cr_positions=[33, 69]
+  original=僕がこっそり美雨の顔を見ると、目から涙が流れていた。男達に犯され続\rけ、あれほど泣いてなお、涙は出ていたのである。しかしその顔は今までに見\rたどの顔より力強く見えた。
+  chs     =我偷偷看了看美雨的脸，泪水正不断从她的眼中涌出。明明遭受了男人们那样的\r凌辱，明明刚才已经哭得那么厉害了，眼泪却还是流个不停。然而，那副神态却比我以往\r见过的任何时候都要坚强。
+
+index=2167
+  chs_len=61 chs_cr_positions=[29, 60]
+  original_len=74 original_cr_positions=[33, 69]
+  original=レンタカーである。しかしただの車ではない。車窓の面積が一般車の倍は\rあり、しかも中から見えて外から見られない、「マジックミラー」になってい\rるのである。
+  chs     =是辆租赁车。但这可不是普通的车。车窗面积足有一般车辆的两倍\r，而且是从里面能看到外面、外面却看不进里面的「单向透明玻璃」\r车。
+
+index=2168
+  chs_len=61 chs_cr_positions=[29, 60]
+  original_len=74 original_cr_positions=[33, 69]
+  original=レンタカーである。しかしただの車ではない。車窓の面積が一般車の倍は\rあり、しかも中から見えて外から見られない、「マジックミラー」になってい\rるのである。
+  chs     =是辆租赁车。但这可不是普通的车。车窗面积足有一般车辆的两倍\r，而且是从里面能看到外面、外面却看不进里面的「单向透明玻璃」\r车。
+
+index=2279
+  chs_len=61 chs_cr_positions=[30]
+  original_len=70 original_cr_positions=[34]
+  original=「美雨はね…雨が恐いの。でも雨が降るとお母さんが車で迎えに来てくれた\r　の。お母さんは忙しかったけど雨が降ると美雨が泣くからって心配してくれた」
+  chs     =「美雨她……很怕下雨。不过以前只要一下雨，妈妈就会开车来接我\r　。妈妈虽然很忙，但她说只要一下雨美雨就会哭，所以总是很担心我」
+
+index=2280
+  chs_len=61 chs_cr_positions=[30]
+  original_len=70 original_cr_positions=[34]
+  original=「美雨はね…雨が恐いの。でも雨が降るとお母さんが車で迎えに来てくれた\r　の。お母さんは忙しかったけど雨が降ると美雨が泣くからって心配してくれた」
+  chs     =「美雨她……很怕下雨。不过以前只要一下雨，妈妈就会开车来接我\r　。妈妈虽然很忙，但她说只要一下雨美雨就会哭，所以总是很担心我」
+
+index=2545
+  chs_len=65 chs_cr_positions=[37]
+  original_len=64 original_cr_positions=[33]
+  original=息はあった。この様子では散々やられまくったんだろうな…と思い、下半\r身を見ると、びりびりに破かれたパンツの奥にラバーが光っている。
+  chs     =还有呼吸。看这副样子，估计是被狠狠糟蹋过了吧……我正这么想着，看向她的下半\r身，发现在被撕得稀烂的内裤深处，有一层橡胶正闪烁着光泽。
+
+index=2546
+  chs_len=65 chs_cr_positions=[37]
+  original_len=64 original_cr_positions=[33]
+  original=息はあった。この様子では散々やられまくったんだろうな…と思い、下半\r身を見ると、びりびりに破かれたパンツの奥にラバーが光っている。
+  chs     =还有呼吸。看这副样子，估计是被狠狠糟蹋过了吧……我正这么想着，看向她的下半\r身，发现在被撕得稀烂的内裤深处，有一层橡胶正闪烁着光泽。
+
+index=2755
+  chs_len=64 chs_cr_positions=[35]
+  original_len=66 original_cr_positions=[33]
+  original=きっと子犬が捨てられているのだろう。そう思って近付いていくと、子犬\rではない、成犬、しかもセントバーナードの「大犬」の捨て犬であった。
+  chs     =我想肯定是谁把小狗扔在这了。我这么想着凑了过去，发现那根本不是什么小狗\r，而是一只成年的——而且还是圣伯纳那种级别的「大狗」弃犬。
+
+index=2756
+  chs_len=64 chs_cr_positions=[35]
+  original_len=66 original_cr_positions=[33]
+  original=きっと子犬が捨てられているのだろう。そう思って近付いていくと、子犬\rではない、成犬、しかもセントバーナードの「大犬」の捨て犬であった。
+  chs     =我想肯定是谁把小狗扔在这了。我这么想着凑了过去，发现那根本不是什么小狗\r，而是一只成年的——而且还是圣伯纳那种级别的「大狗」弃犬。
+
+index=4563
+  chs_len=61 chs_cr_positions=[28]
+  original_len=53 original_cr_positions=[33]
+  original=そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。
+  chs     =看到美雨这副模样，我不禁觉得她十分可爱，于是用宽阔的胸膛\r紧紧搂住了她。面对在我怀中拼命挣扎的美雨，我的胯下早已硬得不行了。
+
+index=4564
+  chs_len=61 chs_cr_positions=[28]
+  original_len=53 original_cr_positions=[33]
+  original=そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。
+  chs     =看到美雨这副模样，我不禁觉得她十分可爱，于是用宽阔的胸膛\r紧紧搂住了她。面对在我怀中拼命挣扎的美雨，我的胯下早已硬得不行了。
+
+index=4841
+  chs_len=75 chs_cr_positions=[33, 63]
+  original_len=95 original_cr_positions=[33, 69]
+  original=湯上がりに牛乳を飲みながら美雨を待っていると、髪を濡らした美雨が女\r湯から出てきた。いやあ、何て可愛らしいんだろうとうっとりしていると、後\rろに年の頃四十後半と言ったおばちゃんがくっついている。
+  chs     =洗完澡，我一边喝着牛奶一边等美雨。不一会儿，头发还湿漉漉的美雨从女\r汤走了出来。哎呀，真是太可爱了，正当我看得出神时，发现她后\r面还跟着个四十来岁的大妈。
+
+index=4842
+  chs_len=75 chs_cr_positions=[33, 63]
+  original_len=95 original_cr_positions=[33, 69]
+  original=湯上がりに牛乳を飲みながら美雨を待っていると、髪を濡らした美雨が女\r湯から出てきた。いやあ、何て可愛らしいんだろうとうっとりしていると、後\rろに年の頃四十後半と言ったおばちゃんがくっついている。
+  chs     =洗完澡，我一边喝着牛奶一边等美雨。不一会儿，头发还湿漉漉的美雨从女\r汤走了出来。哎呀，真是太可爱了，正当我看得出神时，发现她后\r面还跟着个四十来岁的大妈。
+
+index=5173
+  chs_len=63 chs_cr_positions=[32]
+  original_len=67 original_cr_positions=[34]
+  original=「さてと…触診の結果、美雨ちゃんは風邪です。紛れもない風邪。正真正銘\r　の風邪です。なので、熱冷ましと…そうだな抗生物質。もちろん座薬で」
+  chs     =「好啦……根据触诊结果，美雨得的是感冒。无可置疑的感冒。如假包换\r　的感冒。所以呢，要用退烧药和……嗯，抗生素。当然，都要用栓剂」
+
+index=5174
+  chs_len=64 chs_cr_positions=[33]
+  original_len=67 original_cr_positions=[34]
+  original=「さてと…触診の結果、美雨ちゃんは風邪です。紛れもない風邪。正真正銘\r　の風邪です。なので、熱冷ましと…そうだな抗生物質。もちろん座薬で」
+  chs     =「好啦……根据触诊结果，美雨得的是感冒。无可置疑的感冒悬。如假包换\r　的感冒。所以呢，要用退烧药和……嗯，抗生素。当然，都要用栓剂」
+
+index=5439
+  chs_len=88 chs_cr_positions=[29, 73]
+  original_len=81 original_cr_positions=[33, 69]
+  original=そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。
+  chs     =那过分的可爱，以及隐约散发出的色气，让我再次兴奋了起来。不\r行不行，冷静点。再这样下去就跟猴子没两样了。这里得表现得像个正常人，装作若无其事地出门\r去。和这个穿着灯笼裤的少女一起。
+
+index=5440
+  chs_len=88 chs_cr_positions=[29, 73]
+  original_len=81 original_cr_positions=[33, 69]
+  original=そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。
+  chs     =那过分的可爱，以及隐约散发出的色气，让我再次兴奋了起来。不\r行不行，冷静点。再这样下去就跟猴子没两样了。这里得表现得像个正常人，装作若无其事地出门\r去。和这个穿着灯笼裤的少女一起。
+
+index=6009
+  chs_len=60 chs_cr_positions=[34, 59]
+  original_len=74 original_cr_positions=[34, 71]
+  original=「この後、このお兄ちゃんの大きくて長くて固いのを美雨のちっちゃなちっ\r　ちゃな穴に無理矢理ねじ込むんだよ。痛いよ〜。すっごく痛いよ。血もいっぱ\r　い出るよ」
+  chs     =「等会儿，大哥哥这根又大又长又硬的东西，就要强行塞进美雨那小小的、小\r　小的洞里咯。会很疼的哦～。超级疼的。还会流很多\r　血呢」
+
+index=6010
+  chs_len=60 chs_cr_positions=[34, 59]
+  original_len=74 original_cr_positions=[34, 71]
+  original=「この後、このお兄ちゃんの大きくて長くて固いのを美雨のちっちゃなちっ\r　ちゃな穴に無理矢理ねじ込むんだよ。痛いよ〜。すっごく痛いよ。血もいっぱ\r　い出るよ」
+  chs     =「等会儿，大哥哥这根又大又长又硬的东西，就要强行塞进美雨那小小的、小\r　小的洞里咯。会很疼的哦～。超级疼的。还会流很多\r　血呢」
+
+index=6335
+  chs_len=60 chs_cr_positions=[25, 59]
+  original_len=75 original_cr_positions=[33, 70]
+  original=突然体を起こした美雨に弾き飛ばされた僕。受け身を取ろうととっさに出\rした手がセッケンでぬるぬるになっている事を忘れ、滑って後頭部を激しく打っ\rたのだった。
+  chs     =美雨突然起身将我撞开。我想稳住身体，却忘了下意识伸\r出的手还沾满了肥皂泡、滑得不行，结果手下一滑，后脑勺重重地磕在了地\r上。
+
+index=6336
+  chs_len=60 chs_cr_positions=[25, 59]
+  original_len=75 original_cr_positions=[33, 70]
+  original=突然体を起こした美雨に弾き飛ばされた僕。受け身を取ろうととっさに出\rした手がセッケンでぬるぬるになっている事を忘れ、滑って後頭部を激しく打っ\rたのだった。
+  chs     =美雨突然起身将我撞开。我想稳住身体，却忘了下意识伸\r出的手还沾满了肥皂泡、滑得不行，结果手下一滑，后脑勺重重地磕在了地\r上。
+
+index=6621
+  chs_len=72 chs_cr_positions=[30, 64]
+  original_len=80 original_cr_positions=[33, 70]
+  original=隣に並んで座ると、美雨の体から何とも言えない柑橘系の香りが漂ってく\rる。シャンプーやボディーソープだけではなく、少女独特のフェロモンが混じっ\rた本能を刺激する匂い。
+  chs     =并排坐下后，美雨身上飘来一股难以言表的柑橘清香。就这样飘了过\r来。不仅是洗发露或沐浴露的味道，还夹杂着少女特有的费洛蒙，这种混杂\r着本能刺激的气息。
+
+index=6622
+  chs_len=72 chs_cr_positions=[30, 64]
+  original_len=80 original_cr_positions=[33, 70]
+  original=隣に並んで座ると、美雨の体から何とも言えない柑橘系の香りが漂ってく\rる。シャンプーやボディーソープだけではなく、少女独特のフェロモンが混じっ\rた本能を刺激する匂い。
+  chs     =并排坐下后，美雨身上飘来一股难以言表的柑橘清香。就这样飘了过\r来。不仅是洗发露或沐浴露的味道，还夹杂着少女特有的费洛蒙，这种混杂\r着本能刺激的气息。

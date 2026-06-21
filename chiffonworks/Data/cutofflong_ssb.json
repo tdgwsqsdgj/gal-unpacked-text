@@ -1,0 +1,3082 @@
+{
+  "summary": {
+    "source": "H:\\galworks\\chiffonworks\\Data\\cutoff_ssb.json",
+    "threshold_removed_chars": 5,
+    "long_truncated_rows": 93,
+    "max_removed_chars": 10,
+    "total_removed_chars_in_long_rows": 552,
+    "total_removed_bytes_cp932_in_long_rows": 1064,
+    "sort": "removed_chars desc, removed_bytes_cp932 desc"
+  },
+  "items": [
+    {
+      "row_index": 765,
+      "offset_dec": 978392,
+      "offset_hex": "0x000EEDD8",
+      "slot_bytes": 62,
+      "json_indices": [
+        522
+      ],
+      "original_text_from_DATA02": "　結局はただ、やりたいだけの男…美雨の決心が恐かったのである。",
+      "original_messages": [
+        "結局はただ、やりたいだけの男…美雨の決心が恐かったのである。"
+      ],
+      "chs_messages": [
+        "说到底，我终究只是个只想发泄欲望的男人……其实，我是被美雨那份过人的决心给吓到了。"
+      ],
+      "packed_full_text": "説到底，我終究只是个只想髪泄欲望的男人……其実，我是被美雨那齒過人的决心給嚇到了。",
+      "displayed_after_truncate": "説到底，我終究只是个只想髪泄欲望的男人……其実，我是被美雨那齒",
+      "full_chars": 41,
+      "displayed_chars": 31,
+      "removed_chars": 10,
+      "full_bytes_cp932": 82,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 20,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 41,
+          "text": "過人的决心給嚇到了。",
+          "chars": 10,
+          "bytes_cp932": 20
+        }
+      ]
+    },
+    {
+      "row_index": 766,
+      "offset_dec": 978456,
+      "offset_hex": "0x000EEE18",
+      "slot_bytes": 62,
+      "json_indices": [
+        523
+      ],
+      "original_text_from_DATA02": "　結局はただ、やりたいだけの男…美雨の決心が恐かったのである。",
+      "original_messages": [
+        "結局はただ、やりたいだけの男…美雨の決心が恐かったのである。"
+      ],
+      "chs_messages": [
+        "说到底，我终究只是个只想发泄欲望的男人……其实，我是被美雨那份过人的决心给吓到了。"
+      ],
+      "packed_full_text": "説到底，我終究只是个只想髪泄欲望的男人……其実，我是被美雨那齒過人的决心給嚇到了。",
+      "displayed_after_truncate": "説到底，我終究只是个只想髪泄欲望的男人……其実，我是被美雨那齒",
+      "full_chars": 41,
+      "displayed_chars": 31,
+      "removed_chars": 10,
+      "full_bytes_cp932": 82,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 20,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 41,
+          "text": "過人的决心給嚇到了。",
+          "chars": 10,
+          "bytes_cp932": 20
+        }
+      ]
+    },
+    {
+      "row_index": 6510,
+      "offset_dec": 1189676,
+      "offset_hex": "0x0012272C",
+      "slot_bytes": 46,
+      "json_indices": [
+        4801
+      ],
+      "original_text_from_DATA02": "「山と河が！…滝も…それと…やっぱり山と河…」",
+      "original_messages": [
+        "「山と河が！…滝も…それと…やっぱり山と河…」"
+      ],
+      "chs_messages": [
+        "「山啊河啊的！……还有瀑布……以及……果然满眼都是山和河呢……」"
+      ],
+      "packed_full_text": "「山堯河堯的！……還有瀑布……以及……果然満眼都是山和河遙……」",
+      "displayed_after_truncate": "「山堯河堯的！……還有瀑布……以及……果……」",
+      "full_chars": 32,
+      "displayed_chars": 23,
+      "removed_chars": 9,
+      "full_bytes_cp932": 64,
+      "displayed_bytes_cp932": 46,
+      "removed_bytes_cp932": 18,
+      "removed_parts": [
+        {
+          "start_char": 20,
+          "end_char": 29,
+          "text": "然満眼都是山和河遙",
+          "chars": 9,
+          "bytes_cp932": 18
+        }
+      ]
+    },
+    {
+      "row_index": 6511,
+      "offset_dec": 1189724,
+      "offset_hex": "0x0012275C",
+      "slot_bytes": 46,
+      "json_indices": [
+        4802
+      ],
+      "original_text_from_DATA02": "「山と河が！…滝も…それと…やっぱり山と河…」",
+      "original_messages": [
+        "「山と河が！…滝も…それと…やっぱり山と河…」"
+      ],
+      "chs_messages": [
+        "「山啊河啊的！……还有瀑布……以及……果然满眼都是山和河呢……」"
+      ],
+      "packed_full_text": "「山堯河堯的！……還有瀑布……以及……果然満眼都是山和河遙……」",
+      "displayed_after_truncate": "「山堯河堯的！……還有瀑布……以及……果……」",
+      "full_chars": 32,
+      "displayed_chars": 23,
+      "removed_chars": 9,
+      "full_bytes_cp932": 64,
+      "displayed_bytes_cp932": 46,
+      "removed_bytes_cp932": 18,
+      "removed_parts": [
+        {
+          "start_char": 20,
+          "end_char": 29,
+          "text": "然満眼都是山和河遙",
+          "chars": 9,
+          "bytes_cp932": 18
+        }
+      ]
+    },
+    {
+      "row_index": 7675,
+      "offset_dec": 1233024,
+      "offset_hex": "0x0012D080",
+      "slot_bytes": 95,
+      "json_indices": [
+        5645
+      ],
+      "original_text_from_DATA02": "「この年でお漏らしなんかしたら…一生引きずりそう。最悪、オムツを着け\r　て精神科に通うハメに…」",
+      "original_messages": [
+        "「この年でお漏らしなんかしたら…一生引きずりそう。最悪、オムツを着け\r　て精神科に通うハメに…」"
+      ],
+      "chs_messages": [
+        "「要是这把年纪还尿了裤子……恐怕会留下一辈子的阴影。最惨的情况，甚至可能落得穿上纸尿裤\r　去精神科看病的下场……」"
+      ],
+      "packed_full_text": "「要是這把年紀還尿了鷁子……恐怕会留下一輩子的陰影。最惨的情况，甚至可能落得穿上紙尿鷁\r　去精神科看病的下場……」",
+      "displayed_after_truncate": "「要是這把年紀還尿了鷁子……恐怕会留下一輩子的陰影。最惨的情况，甚至可能落得穿上紙尿鷁\r　……」",
+      "full_chars": 57,
+      "displayed_chars": 48,
+      "removed_chars": 9,
+      "full_bytes_cp932": 113,
+      "displayed_bytes_cp932": 95,
+      "removed_bytes_cp932": 18,
+      "removed_parts": [
+        {
+          "start_char": 45,
+          "end_char": 54,
+          "text": "去精神科看病的下場",
+          "chars": 9,
+          "bytes_cp932": 18
+        }
+      ]
+    },
+    {
+      "row_index": 7676,
+      "offset_dec": 1233120,
+      "offset_hex": "0x0012D0E0",
+      "slot_bytes": 95,
+      "json_indices": [
+        5646
+      ],
+      "original_text_from_DATA02": "「この年でお漏らしなんかしたら…一生引きずりそう。最悪、オムツを着け\r　て精神科に通うハメに…」",
+      "original_messages": [
+        "「この年でお漏らしなんかしたら…一生引きずりそう。最悪、オムツを着け\r　て精神科に通うハメに…」"
+      ],
+      "chs_messages": [
+        "「要是这把年纪还尿了裤子……恐怕会留下一辈子的阴影。最惨的情况，甚至可能落得穿上纸尿裤\r　去精神科看病的下场……」"
+      ],
+      "packed_full_text": "「要是這把年紀還尿了鷁子……恐怕会留下一輩子的陰影。最惨的情况，甚至可能落得穿上紙尿鷁\r　去精神科看病的下場……」",
+      "displayed_after_truncate": "「要是這把年紀還尿了鷁子……恐怕会留下一輩子的陰影。最惨的情况，甚至可能落得穿上紙尿鷁\r　……」",
+      "full_chars": 57,
+      "displayed_chars": 48,
+      "removed_chars": 9,
+      "full_bytes_cp932": 113,
+      "displayed_bytes_cp932": 95,
+      "removed_bytes_cp932": 18,
+      "removed_parts": [
+        {
+          "start_char": 45,
+          "end_char": 54,
+          "text": "去精神科看病的下場",
+          "chars": 9,
+          "bytes_cp932": 18
+        }
+      ]
+    },
+    {
+      "row_index": 6868,
+      "offset_dec": 1202476,
+      "offset_hex": "0x0012592C",
+      "slot_bytes": 64,
+      "json_indices": [
+        5053
+      ],
+      "original_text_from_DATA02": "　ジョーーーーーーーーーーーーーーーーーーーーーーーーーー！！！",
+      "original_messages": [
+        "ジョーーーーーーーーーーーーーーーーーーーーーーーーーー！！！"
+      ],
+      "chs_messages": [
+        "滋————————————————————————————————————！！！"
+      ],
+      "packed_full_text": "滋ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー！！！",
+      "displayed_after_truncate": "滋ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
+      "full_chars": 40,
+      "displayed_chars": 32,
+      "removed_chars": 8,
+      "full_bytes_cp932": 80,
+      "displayed_bytes_cp932": 64,
+      "removed_bytes_cp932": 16,
+      "removed_parts": [
+        {
+          "start_char": 32,
+          "end_char": 40,
+          "text": "ーーーーー！！！",
+          "chars": 8,
+          "bytes_cp932": 16
+        }
+      ]
+    },
+    {
+      "row_index": 6869,
+      "offset_dec": 1202544,
+      "offset_hex": "0x00125970",
+      "slot_bytes": 64,
+      "json_indices": [
+        5054
+      ],
+      "original_text_from_DATA02": "　ジョーーーーーーーーーーーーーーーーーーーーーーーーーー！！！",
+      "original_messages": [
+        "ジョーーーーーーーーーーーーーーーーーーーーーーーーーー！！！"
+      ],
+      "chs_messages": [
+        "滋————————————————————————————————————！！！"
+      ],
+      "packed_full_text": "滋ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー！！！",
+      "displayed_after_truncate": "滋ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
+      "full_chars": 40,
+      "displayed_chars": 32,
+      "removed_chars": 8,
+      "full_bytes_cp932": 80,
+      "displayed_bytes_cp932": 64,
+      "removed_bytes_cp932": 16,
+      "removed_parts": [
+        {
+          "start_char": 32,
+          "end_char": 40,
+          "text": "ーーーーー！！！",
+          "chars": 8,
+          "bytes_cp932": 16
+        }
+      ]
+    },
+    {
+      "row_index": 7840,
+      "offset_dec": 1237988,
+      "offset_hex": "0x0012E3E4",
+      "slot_bytes": 83,
+      "json_indices": [
+        5761
+      ],
+      "original_text_from_DATA02": "　昨日、知らない男の肉棒をくわえ込んだ股を無邪気に開いて寝ている姿に\r僕は劣情した。",
+      "original_messages": [
+        "昨日、知らない男の肉棒をくわえ込んだ股を無邪気に開いて寝ている姿に\r僕は劣情した。"
+      ],
+      "chs_messages": [
+        "看着她昨天曾含过陌生男人肉棒的胯间，此刻却毫无防备地大张着睡去的样子，\r我心中涌起了一股强烈的欲望。"
+      ],
+      "packed_full_text": "看着瑤昨天曾含過陌生男人肉棒的胯間，此刻却毫无防備地大張着睡去的樣子，\r我心中涌起了一股強烈的欲望。",
+      "displayed_after_truncate": "看着瑤昨天曾含過陌生男人肉棒的胯間，此刻却毫无防備地大張着睡去的樣子，\r我心中涌起了",
+      "full_chars": 50,
+      "displayed_chars": 42,
+      "removed_chars": 8,
+      "full_bytes_cp932": 99,
+      "displayed_bytes_cp932": 83,
+      "removed_bytes_cp932": 16,
+      "removed_parts": [
+        {
+          "start_char": 42,
+          "end_char": 50,
+          "text": "一股強烈的欲望。",
+          "chars": 8,
+          "bytes_cp932": 16
+        }
+      ]
+    },
+    {
+      "row_index": 7841,
+      "offset_dec": 1238072,
+      "offset_hex": "0x0012E438",
+      "slot_bytes": 83,
+      "json_indices": [
+        5762
+      ],
+      "original_text_from_DATA02": "　昨日、知らない男の肉棒をくわえ込んだ股を無邪気に開いて寝ている姿に\r僕は劣情した。",
+      "original_messages": [
+        "昨日、知らない男の肉棒をくわえ込んだ股を無邪気に開いて寝ている姿に\r僕は劣情した。"
+      ],
+      "chs_messages": [
+        "看着她昨天曾含过陌生男人肉棒的胯间，此刻却毫无防备地大张着睡去的样子，\r我心中涌起了一股强烈的欲望。"
+      ],
+      "packed_full_text": "看着瑤昨天曾含過陌生男人肉棒的胯間，此刻却毫无防備地大張着睡去的樣子，\r我心中涌起了一股強烈的欲望。",
+      "displayed_after_truncate": "看着瑤昨天曾含過陌生男人肉棒的胯間，此刻却毫无防備地大張着睡去的樣子，\r我心中涌起了",
+      "full_chars": 50,
+      "displayed_chars": 42,
+      "removed_chars": 8,
+      "full_bytes_cp932": 99,
+      "displayed_bytes_cp932": 83,
+      "removed_bytes_cp932": 16,
+      "removed_parts": [
+        {
+          "start_char": 42,
+          "end_char": 50,
+          "text": "一股強烈的欲望。",
+          "chars": 8,
+          "bytes_cp932": 16
+        }
+      ]
+    },
+    {
+      "row_index": 3508,
+      "offset_dec": 1079096,
+      "offset_hex": "0x00107738",
+      "slot_bytes": 48,
+      "json_indices": [
+        2579
+      ],
+      "original_text_from_DATA02": "　美雨は涙とおじさんの垢で汚れた顔で様子を伺う。",
+      "original_messages": [
+        "美雨は涙とおじさんの垢で汚れた顔で様子を伺う。"
+      ],
+      "chs_messages": [
+        "美雨满脸泪水，还沾着大叔身上的污垢，她惊恐地观察着对方的反应。"
+      ],
+      "packed_full_text": "美雨満臉泪水，還沾着大叔身上的汚垢，瑤驚恐地観察着対方的反応。",
+      "displayed_after_truncate": "美雨満臉泪水，還沾着大叔身上的汚垢，瑤驚恐地観察",
+      "full_chars": 31,
+      "displayed_chars": 24,
+      "removed_chars": 7,
+      "full_bytes_cp932": 62,
+      "displayed_bytes_cp932": 48,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 24,
+          "end_char": 31,
+          "text": "着対方的反応。",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 3509,
+      "offset_dec": 1079148,
+      "offset_hex": "0x0010776C",
+      "slot_bytes": 48,
+      "json_indices": [
+        2580
+      ],
+      "original_text_from_DATA02": "　美雨は涙とおじさんの垢で汚れた顔で様子を伺う。",
+      "original_messages": [
+        "美雨は涙とおじさんの垢で汚れた顔で様子を伺う。"
+      ],
+      "chs_messages": [
+        "美雨满脸泪水，还沾着大叔身上的污垢，她惊恐地观察着对方的反应。"
+      ],
+      "packed_full_text": "美雨満臉泪水，還沾着大叔身上的汚垢，瑤驚恐地観察着対方的反応。",
+      "displayed_after_truncate": "美雨満臉泪水，還沾着大叔身上的汚垢，瑤驚恐地観察",
+      "full_chars": 31,
+      "displayed_chars": 24,
+      "removed_chars": 7,
+      "full_bytes_cp932": 62,
+      "displayed_bytes_cp932": 48,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 24,
+          "end_char": 31,
+          "text": "着対方的反応。",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 6179,
+      "offset_dec": 1179000,
+      "offset_hex": "0x0011FD78",
+      "slot_bytes": 109,
+      "json_indices": [
+        4563
+      ],
+      "original_text_from_DATA02": "　そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。",
+      "original_messages": [
+        "そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。"
+      ],
+      "chs_messages": [
+        "看到美雨这副模样，我不禁觉得她十分可爱，于是用宽阔的胸膛\r紧紧搂住了她。面对在我怀中拼命挣扎的美雨，我的胯下早已硬得不行了。"
+      ],
+      "packed_full_text": "看到美雨這副模樣，我不禁覚得瑤十分可愛，于是用寛闊的胸髞\r緊緊僂住了瑤。面対在我懐中並命錚扎的美雨，我的胯下早已硬得不行了。",
+      "displayed_after_truncate": "看到美雨這副模樣，我不禁覚得瑤十分可愛，于是用寛闊的胸髞\r緊緊僂住了瑤。面対在我懐中並命錚扎的美雨，我的胯下早",
+      "full_chars": 62,
+      "displayed_chars": 55,
+      "removed_chars": 7,
+      "full_bytes_cp932": 123,
+      "displayed_bytes_cp932": 109,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 55,
+          "end_char": 62,
+          "text": "已硬得不行了。",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 6180,
+      "offset_dec": 1179112,
+      "offset_hex": "0x0011FDE8",
+      "slot_bytes": 109,
+      "json_indices": [
+        4564
+      ],
+      "original_text_from_DATA02": "　そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。",
+      "original_messages": [
+        "そんな美雨を可愛く感じて僕は大きな胸で抱きしめてやる。中で精一杯も\rがく美雨に、オチ○チ○は既にビンビンだ。"
+      ],
+      "chs_messages": [
+        "看到美雨这副模样，我不禁觉得她十分可爱，于是用宽阔的胸膛\r紧紧搂住了她。面对在我怀中拼命挣扎的美雨，我的胯下早已硬得不行了。"
+      ],
+      "packed_full_text": "看到美雨這副模樣，我不禁覚得瑤十分可愛，于是用寛闊的胸髞\r緊緊僂住了瑤。面対在我懐中並命錚扎的美雨，我的胯下早已硬得不行了。",
+      "displayed_after_truncate": "看到美雨這副模樣，我不禁覚得瑤十分可愛，于是用寛闊的胸髞\r緊緊僂住了瑤。面対在我懐中並命錚扎的美雨，我的胯下早",
+      "full_chars": 62,
+      "displayed_chars": 55,
+      "removed_chars": 7,
+      "full_bytes_cp932": 123,
+      "displayed_bytes_cp932": 109,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 55,
+          "end_char": 62,
+          "text": "已硬得不行了。",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 6478,
+      "offset_dec": 1188092,
+      "offset_hex": "0x001220FC",
+      "slot_bytes": 26,
+      "json_indices": [
+        4777
+      ],
+      "original_text_from_DATA02": "「家族で旅館とか行った？」",
+      "original_messages": [
+        "「家族で旅館とか行った？」"
+      ],
+      "chs_messages": [
+        "「以前有跟家里人一起去过旅馆之类的吗？」"
+      ],
+      "packed_full_text": "「以前有跟家里人一起去過旅館之類的龜？」",
+      "displayed_after_truncate": "「以前有跟家里人一起去？」",
+      "full_chars": 20,
+      "displayed_chars": 13,
+      "removed_chars": 7,
+      "full_bytes_cp932": 40,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 18,
+          "text": "過旅館之類的龜",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 6479,
+      "offset_dec": 1188120,
+      "offset_hex": "0x00122118",
+      "slot_bytes": 26,
+      "json_indices": [
+        4778
+      ],
+      "original_text_from_DATA02": "「家族で旅館とか行った？」",
+      "original_messages": [
+        "「家族で旅館とか行った？」"
+      ],
+      "chs_messages": [
+        "「以前有跟家里人一起去过旅馆之类的吗？」"
+      ],
+      "packed_full_text": "「以前有跟家里人一起去過旅館之類的龜？」",
+      "displayed_after_truncate": "「以前有跟家里人一起去？」",
+      "full_chars": 20,
+      "displayed_chars": 13,
+      "removed_chars": 7,
+      "full_bytes_cp932": 40,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 18,
+          "text": "過旅館之類的龜",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 7479,
+      "offset_dec": 1227104,
+      "offset_hex": "0x0012B960",
+      "slot_bytes": 24,
+      "json_indices": [
+        5507
+      ],
+      "original_text_from_DATA02": "「あ…あれ～何でかなあ」",
+      "original_messages": [
+        "「あ…あれ〜何でかなあ」"
+      ],
+      "chs_messages": [
+        "「哎……呀，这就奇怪了，是为什么呢？」"
+      ],
+      "packed_full_text": "「鶯……呀，這就奇怪了，是為什麼遙？」",
+      "displayed_after_truncate": "「鶯……呀，這就奇怪？」",
+      "full_chars": 19,
+      "displayed_chars": 12,
+      "removed_chars": 7,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 24,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 10,
+          "end_char": 17,
+          "text": "了，是為什麼遙",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 7480,
+      "offset_dec": 1227132,
+      "offset_hex": "0x0012B97C",
+      "slot_bytes": 24,
+      "json_indices": [
+        5508
+      ],
+      "original_text_from_DATA02": "「あ…あれ～何でかなあ」",
+      "original_messages": [
+        "「あ…あれ〜何でかなあ」"
+      ],
+      "chs_messages": [
+        "「哎……呀，这就奇怪了，是为什么呢？」"
+      ],
+      "packed_full_text": "「鶯……呀，這就奇怪了，是為什麼遙？」",
+      "displayed_after_truncate": "「鶯……呀，這就奇怪？」",
+      "full_chars": 19,
+      "displayed_chars": 12,
+      "removed_chars": 7,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 24,
+      "removed_bytes_cp932": 14,
+      "removed_parts": [
+        {
+          "start_char": 10,
+          "end_char": 17,
+          "text": "了，是為什麼遙",
+          "chars": 7,
+          "bytes_cp932": 14
+        }
+      ]
+    },
+    {
+      "row_index": 1731,
+      "offset_dec": 1010220,
+      "offset_hex": "0x000F6A2C",
+      "slot_bytes": 77,
+      "json_indices": [
+        1221
+      ],
+      "original_text_from_DATA02": "「あぁ…おじちゃん、こんな事されてて説得力ないけど…お兄ちゃんひどい\r　奴だ」",
+      "original_messages": [
+        "「あぁ…おじちゃん、こんな事されてて説得力ないけど…お兄ちゃんひどい\r　奴だ」"
+      ],
+      "chs_messages": [
+        "「啊……虽然大叔我现在正被 you 伺候着，说这话没什么说服力……但你哥哥真是个差劲\r　的家伙」"
+      ],
+      "packed_full_text": "「堯……雖然大叔我現在正被 you 伺候着，説這話没什麼説服力……但凜哥哥真是个差勁\r　的家夥」",
+      "displayed_after_truncate": "「堯……雖然大叔我現在正被 you 伺候着，説這話没什麼説服力……但凜哥哥真是个」",
+      "full_chars": 48,
+      "displayed_chars": 41,
+      "removed_chars": 7,
+      "full_bytes_cp932": 90,
+      "displayed_bytes_cp932": 77,
+      "removed_bytes_cp932": 13,
+      "removed_parts": [
+        {
+          "start_char": 40,
+          "end_char": 47,
+          "text": "差勁\r　的家夥",
+          "chars": 7,
+          "bytes_cp932": 13
+        }
+      ]
+    },
+    {
+      "row_index": 2934,
+      "offset_dec": 1055240,
+      "offset_hex": "0x00101A08",
+      "slot_bytes": 75,
+      "json_indices": [
+        2117
+      ],
+      "original_text_from_DATA02": "　振り向くと美雨が潤んだ瞳で僕を見つめている。無理矢理着せた白衣が悲\rしい。",
+      "original_messages": [
+        "振り向くと美雨が潤んだ瞳で僕を見つめている。無理矢理着せた白衣が悲\rしい。"
+      ],
+      "chs_messages": [
+        "回过头，美雨正用泪眼汪汪的双眼注视着我。身上那件硬被我套上的白大褂，此刻显得\r格外可悲。"
+      ],
+      "packed_full_text": "回過頭，美雨正用泪眼汪汪的双眼注視着我。身上那件硬被我套上的白大褂，此刻顕得\r格外可悲。",
+      "displayed_after_truncate": "回過頭，美雨正用泪眼汪汪的双眼注視着我。身上那件硬被我套上的白大褂，此刻顕",
+      "full_chars": 44,
+      "displayed_chars": 37,
+      "removed_chars": 7,
+      "full_bytes_cp932": 87,
+      "displayed_bytes_cp932": 74,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 37,
+          "end_char": 44,
+          "text": "得\r格外可悲。",
+          "chars": 7,
+          "bytes_cp932": 13
+        }
+      ]
+    },
+    {
+      "row_index": 2935,
+      "offset_dec": 1055316,
+      "offset_hex": "0x00101A54",
+      "slot_bytes": 75,
+      "json_indices": [
+        2118
+      ],
+      "original_text_from_DATA02": "　振り向くと美雨が潤んだ瞳で僕を見つめている。無理矢理着せた白衣が悲\rしい。",
+      "original_messages": [
+        "振り向くと美雨が潤んだ瞳で僕を見つめている。無理矢理着せた白衣が悲\rしい。"
+      ],
+      "chs_messages": [
+        "回过头，美雨正用泪眼汪汪的双眼注视着我。身上那件硬被我套上的白大褂，此刻显得\r格外可悲。"
+      ],
+      "packed_full_text": "回過頭，美雨正用泪眼汪汪的双眼注視着我。身上那件硬被我套上的白大褂，此刻顕得\r格外可悲。",
+      "displayed_after_truncate": "回過頭，美雨正用泪眼汪汪的双眼注視着我。身上那件硬被我套上的白大褂，此刻顕",
+      "full_chars": 44,
+      "displayed_chars": 37,
+      "removed_chars": 7,
+      "full_bytes_cp932": 87,
+      "displayed_bytes_cp932": 74,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 37,
+          "end_char": 44,
+          "text": "得\r格外可悲。",
+          "chars": 7,
+          "bytes_cp932": 13
+        }
+      ]
+    },
+    {
+      "row_index": 2786,
+      "offset_dec": 1049184,
+      "offset_hex": "0x00100260",
+      "slot_bytes": 64,
+      "json_indices": [
+        2009
+      ],
+      "original_text_from_DATA02": "「よし、次俺～。うわ～お前出し過ぎだって。後の人の事考えようね」",
+      "original_messages": [
+        "「よし、次俺〜。うわ〜お前出し過ぎだって。後の人の事考えようね」"
+      ],
+      "chs_messages": [
+        "「好，下一个轮到我了～。哇，你这家伙射得也太多了吧。稍微考虑一下后面的人啊」"
+      ],
+      "packed_full_text": "「好，下一个輪到我了～。哇，凜這家夥射得也太多了槇。稍微考慮一下后面的人堯」",
+      "displayed_after_truncate": "「好，下一个輪到我了～。哇，凜這家夥射得也太多了槇。稍微考慮一」",
+      "full_chars": 38,
+      "displayed_chars": 32,
+      "removed_chars": 6,
+      "full_bytes_cp932": 76,
+      "displayed_bytes_cp932": 64,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 37,
+          "text": "下后面的人堯",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 2787,
+      "offset_dec": 1049252,
+      "offset_hex": "0x001002A4",
+      "slot_bytes": 64,
+      "json_indices": [
+        2010
+      ],
+      "original_text_from_DATA02": "「よし、次俺～。うわ～お前出し過ぎだって。後の人の事考えようね」",
+      "original_messages": [
+        "「よし、次俺〜。うわ〜お前出し過ぎだって。後の人の事考えようね」"
+      ],
+      "chs_messages": [
+        "「好，下一个轮到我了～。哇，你这家伙射得也太多了吧。稍微考虑一下后面的人啊」"
+      ],
+      "packed_full_text": "「好，下一个輪到我了～。哇，凜這家夥射得也太多了槇。稍微考慮一下后面的人堯」",
+      "displayed_after_truncate": "「好，下一个輪到我了～。哇，凜這家夥射得也太多了槇。稍微考慮一」",
+      "full_chars": 38,
+      "displayed_chars": 32,
+      "removed_chars": 6,
+      "full_bytes_cp932": 76,
+      "displayed_bytes_cp932": 64,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 37,
+          "text": "下后面的人堯",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 3277,
+      "offset_dec": 1068780,
+      "offset_hex": "0x00104EEC",
+      "slot_bytes": 58,
+      "json_indices": [
+        2381
+      ],
+      "original_text_from_DATA02": "　その間も他の男がおっぱいや股や足や色んな所を責めてくる。",
+      "original_messages": [
+        "その間も他の男がおっぱいや股や足や色んな所を責めてくる。"
+      ],
+      "chs_messages": [
+        "在此期间，其他的男人也在不断地责难着她的胸部、胯下、双腿以及各种地方。"
+      ],
+      "packed_full_text": "在此期間，其他的男人也在不断地責難着瑤的胸部、胯下、双腿以及各種地方。",
+      "displayed_after_truncate": "在此期間，其他的男人也在不断地責難着瑤的胸部、胯下、双腿以",
+      "full_chars": 35,
+      "displayed_chars": 29,
+      "removed_chars": 6,
+      "full_bytes_cp932": 70,
+      "displayed_bytes_cp932": 58,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 29,
+          "end_char": 35,
+          "text": "及各種地方。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 3278,
+      "offset_dec": 1068840,
+      "offset_hex": "0x00104F28",
+      "slot_bytes": 58,
+      "json_indices": [
+        2382
+      ],
+      "original_text_from_DATA02": "　その間も他の男がおっぱいや股や足や色んな所を責めてくる。",
+      "original_messages": [
+        "その間も他の男がおっぱいや股や足や色んな所を責めてくる。"
+      ],
+      "chs_messages": [
+        "在此期间，其他的男人也在不断地责难着她的胸部、胯下、双腿以及各种地方。"
+      ],
+      "packed_full_text": "在此期間，其他的男人也在不断地責難着瑤的胸部、胯下、双腿以及各種地方。",
+      "displayed_after_truncate": "在此期間，其他的男人也在不断地責難着瑤的胸部、胯下、双腿以",
+      "full_chars": 35,
+      "displayed_chars": 29,
+      "removed_chars": 6,
+      "full_bytes_cp932": 70,
+      "displayed_bytes_cp932": 58,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 29,
+          "end_char": 35,
+          "text": "及各種地方。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 6187,
+      "offset_dec": 1179392,
+      "offset_hex": "0x0011FF00",
+      "slot_bytes": 26,
+      "json_indices": [
+        4569
+      ],
+      "original_text_from_DATA02": "「やぁ…やぁよこんな所で」",
+      "original_messages": [
+        "「やぁ…やぁよこんな所で」"
+      ],
+      "chs_messages": [
+        "「不要……在、在这种地方，不要啦……」"
+      ],
+      "packed_full_text": "「不要……在、在這種地方，不要鼕……」",
+      "displayed_after_truncate": "「不要……在、在這種……」",
+      "full_chars": 19,
+      "displayed_chars": 13,
+      "removed_chars": 6,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 10,
+          "end_char": 16,
+          "text": "地方，不要鼕",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 6188,
+      "offset_dec": 1179420,
+      "offset_hex": "0x0011FF1C",
+      "slot_bytes": 26,
+      "json_indices": [
+        4570
+      ],
+      "original_text_from_DATA02": "「やぁ…やぁよこんな所で」",
+      "original_messages": [
+        "「やぁ…やぁよこんな所で」"
+      ],
+      "chs_messages": [
+        "「不要……在、在这种地方，不要啦……」"
+      ],
+      "packed_full_text": "「不要……在、在這種地方，不要鼕……」",
+      "displayed_after_truncate": "「不要……在、在這種……」",
+      "full_chars": 19,
+      "displayed_chars": 13,
+      "removed_chars": 6,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 10,
+          "end_char": 16,
+          "text": "地方，不要鼕",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 6527,
+      "offset_dec": 1190084,
+      "offset_hex": "0x001228C4",
+      "slot_bytes": 26,
+      "json_indices": [
+        4813
+      ],
+      "original_text_from_DATA02": "「あはは。俺と一緒でも？」",
+      "original_messages": [
+        "「あはは。俺と一緒でも？」"
+      ],
+      "chs_messages": [
+        "「哈哈。跟我在一起也还是提不起劲吗？」"
+      ],
+      "packed_full_text": "「哈哈。跟我在一起也還是提不起勁龜？」",
+      "displayed_after_truncate": "「哈哈。跟我在一起也還？」",
+      "full_chars": 19,
+      "displayed_chars": 13,
+      "removed_chars": 6,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 17,
+          "text": "是提不起勁龜",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 6528,
+      "offset_dec": 1190112,
+      "offset_hex": "0x001228E0",
+      "slot_bytes": 26,
+      "json_indices": [
+        4814
+      ],
+      "original_text_from_DATA02": "「あはは。俺と一緒でも？」",
+      "original_messages": [
+        "「あはは。俺と一緒でも？」"
+      ],
+      "chs_messages": [
+        "「哈哈。跟我在一起也还是提不起劲吗？」"
+      ],
+      "packed_full_text": "「哈哈。跟我在一起也還是提不起勁龜？」",
+      "displayed_after_truncate": "「哈哈。跟我在一起也還？」",
+      "full_chars": 19,
+      "displayed_chars": 13,
+      "removed_chars": 6,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 17,
+          "text": "是提不起勁龜",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7393,
+      "offset_dec": 1222932,
+      "offset_hex": "0x0012A914",
+      "slot_bytes": 166,
+      "json_indices": [
+        5439
+      ],
+      "original_text_from_DATA02": "　そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。",
+      "original_messages": [
+        "そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。"
+      ],
+      "chs_messages": [
+        "那过分的可爱，以及隐约散发出的色气，让我再次兴奋了起来。不\r行不行，冷静点。再这样下去就跟猴子没两样了。这里得表现得像个正常人，装作若无其事地出门\r去。和这个穿着灯笼裤的少女一起。"
+      ],
+      "packed_full_text": "那過分的可愛，以及隠約散髪出的色气，讓我再次興奮了起来。不\r行不行，冷静点。再這樣下去就跟猴子没両樣了。這里得表現得像个正常人，装作若无其事地出門\r去。和這个穿着灯篭鷁的少女一起。",
+      "displayed_after_truncate": "那過分的可愛，以及隠約散髪出的色气，讓我再次興奮了起来。不\r行不行，冷静点。再這樣下去就跟猴子没両樣了。這里得表現得像个正常人，装作若无其事地出門\r去。和這个穿着灯篭鷁",
+      "full_chars": 90,
+      "displayed_chars": 84,
+      "removed_chars": 6,
+      "full_bytes_cp932": 178,
+      "displayed_bytes_cp932": 166,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 84,
+          "end_char": 90,
+          "text": "的少女一起。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7394,
+      "offset_dec": 1223100,
+      "offset_hex": "0x0012A9BC",
+      "slot_bytes": 166,
+      "json_indices": [
+        5440
+      ],
+      "original_text_from_DATA02": "　そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。",
+      "original_messages": [
+        "そのあまりの可愛らしさ、そして卑猥さに僕は再び興奮してしまった。い\rやいや待て。それでは猿と一緒だ。ここは人間らしく、平静を装って出掛ける\rのだ。ブルマー姿の少女と。"
+      ],
+      "chs_messages": [
+        "那过分的可爱，以及隐约散发出的色气，让我再次兴奋了起来。不\r行不行，冷静点。再这样下去就跟猴子没两样了。这里得表现得像个正常人，装作若无其事地出门\r去。和这个穿着灯笼裤的少女一起。"
+      ],
+      "packed_full_text": "那過分的可愛，以及隠約散髪出的色气，讓我再次興奮了起来。不\r行不行，冷静点。再這樣下去就跟猴子没両樣了。這里得表現得像个正常人，装作若无其事地出門\r去。和這个穿着灯篭鷁的少女一起。",
+      "displayed_after_truncate": "那過分的可愛，以及隠約散髪出的色气，讓我再次興奮了起来。不\r行不行，冷静点。再這樣下去就跟猴子没両樣了。這里得表現得像个正常人，装作若无其事地出門\r去。和這个穿着灯篭鷁",
+      "full_chars": 90,
+      "displayed_chars": 84,
+      "removed_chars": 6,
+      "full_bytes_cp932": 178,
+      "displayed_bytes_cp932": 166,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 84,
+          "end_char": 90,
+          "text": "的少女一起。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7565,
+      "offset_dec": 1229180,
+      "offset_hex": "0x0012C17C",
+      "slot_bytes": 32,
+      "json_indices": [
+        5565
+      ],
+      "original_text_from_DATA02": "「でも普通なフリして生活してる」",
+      "original_messages": [
+        "「でも普通なフリして生活してる」"
+      ],
+      "chs_messages": [
+        "「只不过平时都在装成一副正常的模样生活罢了」"
+      ],
+      "packed_full_text": "「只不過平時都在装成一副正常的模樣生活罷了」",
+      "displayed_after_truncate": "「只不過平時都在装成一副正常的」",
+      "full_chars": 22,
+      "displayed_chars": 16,
+      "removed_chars": 6,
+      "full_bytes_cp932": 44,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 21,
+          "text": "模樣生活罷了",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7566,
+      "offset_dec": 1229216,
+      "offset_hex": "0x0012C1A0",
+      "slot_bytes": 32,
+      "json_indices": [
+        5566
+      ],
+      "original_text_from_DATA02": "「でも普通なフリして生活してる」",
+      "original_messages": [
+        "「でも普通なフリして生活してる」"
+      ],
+      "chs_messages": [
+        "「只不过平时都在装成一副正常的模样生活罢了」"
+      ],
+      "packed_full_text": "「只不過平時都在装成一副正常的模樣生活罷了」",
+      "displayed_after_truncate": "「只不過平時都在装成一副正常的」",
+      "full_chars": 22,
+      "displayed_chars": 16,
+      "removed_chars": 6,
+      "full_bytes_cp932": 44,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 21,
+          "text": "模樣生活罷了",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7941,
+      "offset_dec": 1241416,
+      "offset_hex": "0x0012F148",
+      "slot_bytes": 44,
+      "json_indices": [
+        5835
+      ],
+      "original_text_from_DATA02": "　驚きの反面、喜びと気持ちよさに体が震えた。",
+      "original_messages": [
+        "驚きの反面、喜びと気持ちよさに体が震えた。"
+      ],
+      "chs_messages": [
+        "惊讶之余，随之而来的喜悦与快感让我的身体不由得颤抖起来。"
+      ],
+      "packed_full_text": "驚訝之余，随之而来的喜悦与快感讓我的身体不由得顫抖起来。",
+      "displayed_after_truncate": "驚訝之余，随之而来的喜悦与快感讓我的身体不由",
+      "full_chars": 28,
+      "displayed_chars": 22,
+      "removed_chars": 6,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 22,
+          "end_char": 28,
+          "text": "得顫抖起来。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7942,
+      "offset_dec": 1241464,
+      "offset_hex": "0x0012F178",
+      "slot_bytes": 44,
+      "json_indices": [
+        5836
+      ],
+      "original_text_from_DATA02": "　驚きの反面、喜びと気持ちよさに体が震えた。",
+      "original_messages": [
+        "驚きの反面、喜びと気持ちよさに体が震えた。"
+      ],
+      "chs_messages": [
+        "惊讶之余，随之而来的喜悦与快感让我的身体不由得颤抖起来。"
+      ],
+      "packed_full_text": "驚訝之余，随之而来的喜悦与快感讓我的身体不由得顫抖起来。",
+      "displayed_after_truncate": "驚訝之余，随之而来的喜悦与快感讓我的身体不由",
+      "full_chars": 28,
+      "displayed_chars": 22,
+      "removed_chars": 6,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 22,
+          "end_char": 28,
+          "text": "得顫抖起来。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 8485,
+      "offset_dec": 1263600,
+      "offset_hex": "0x001347F0",
+      "slot_bytes": 44,
+      "json_indices": [
+        6243
+      ],
+      "original_text_from_DATA02": "　寝息が僕の鼻腔にかかる。甘く、少し獣臭い。",
+      "original_messages": [
+        "寝息が僕の鼻腔にかかる。甘く、少し獣臭い。"
+      ],
+      "chs_messages": [
+        "她的鼻息喷在我的鼻腔里。甜甜的，还带着些许野兽般的气味。"
+      ],
+      "packed_full_text": "瑤的鼻息噴在我的鼻腔里。甜甜的，還帯着些許野獸般的气味。",
+      "displayed_after_truncate": "瑤的鼻息噴在我的鼻腔里。甜甜的，還帯着些許野",
+      "full_chars": 28,
+      "displayed_chars": 22,
+      "removed_chars": 6,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 22,
+          "end_char": 28,
+          "text": "獸般的气味。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 8486,
+      "offset_dec": 1263648,
+      "offset_hex": "0x00134820",
+      "slot_bytes": 44,
+      "json_indices": [
+        6244
+      ],
+      "original_text_from_DATA02": "　寝息が僕の鼻腔にかかる。甘く、少し獣臭い。",
+      "original_messages": [
+        "寝息が僕の鼻腔にかかる。甘く、少し獣臭い。"
+      ],
+      "chs_messages": [
+        "她的鼻息喷在我的鼻腔里。甜甜的，还带着些许野兽般的气味。"
+      ],
+      "packed_full_text": "瑤的鼻息噴在我的鼻腔里。甜甜的，還帯着些許野獸般的气味。",
+      "displayed_after_truncate": "瑤的鼻息噴在我的鼻腔里。甜甜的，還帯着些許野",
+      "full_chars": 28,
+      "displayed_chars": 22,
+      "removed_chars": 6,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 22,
+          "end_char": 28,
+          "text": "獸般的气味。",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 8854,
+      "offset_dec": 1275704,
+      "offset_hex": "0x00137738",
+      "slot_bytes": 22,
+      "json_indices": [
+        6496
+      ],
+      "original_text_from_DATA02": "「でも私…遅くなると」",
+      "original_messages": [
+        "「でも私…遅くなると」"
+      ],
+      "chs_messages": [
+        "「可是我……要是回去太晚的话……」"
+      ],
+      "packed_full_text": "「可是我……要是回去太晩的話……」",
+      "displayed_after_truncate": "「可是我……要是……」",
+      "full_chars": 17,
+      "displayed_chars": 11,
+      "removed_chars": 6,
+      "full_bytes_cp932": 34,
+      "displayed_bytes_cp932": 22,
+      "removed_bytes_cp932": 12,
+      "removed_parts": [
+        {
+          "start_char": 8,
+          "end_char": 14,
+          "text": "回去太晩的話",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 2041,
+      "offset_dec": 1022948,
+      "offset_hex": "0x000F9BE4",
+      "slot_bytes": 24,
+      "json_indices": [
+        1465
+      ],
+      "original_text_from_DATA02": "「洗濯ぐらいできます！」",
+      "original_messages": [
+        "「洗濯ぐらいできます！」"
+      ],
+      "chs_messages": [
+        "「洗衣服这种事， I 我还是会做的！」"
+      ],
+      "packed_full_text": "「洗衣服這種事， I 我還是会做的！」",
+      "displayed_after_truncate": "「洗衣服這種事， I ！」",
+      "full_chars": 19,
+      "displayed_chars": 13,
+      "removed_chars": 6,
+      "full_bytes_cp932": 35,
+      "displayed_bytes_cp932": 23,
+      "removed_bytes_cp932": 11,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 17,
+          "text": "我還是会做的",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 276,
+      "offset_dec": 959512,
+      "offset_hex": "0x000EA418",
+      "slot_bytes": 20,
+      "json_indices": [
+        170
+      ],
+      "original_text_from_DATA02": "「あ…美雨…もう…」",
+      "original_messages": [
+        "「あ…美雨…もう…」"
+      ],
+      "chs_messages": [
+        "「啊……美雨……我不行了……」"
+      ],
+      "packed_full_text": "「堯……美雨……我不行了……」",
+      "displayed_after_truncate": "「堯……美雨……」",
+      "full_chars": 15,
+      "displayed_chars": 9,
+      "removed_chars": 6,
+      "full_bytes_cp932": 30,
+      "displayed_bytes_cp932": 18,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 8,
+          "end_char": 14,
+          "text": "我不行了……",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 277,
+      "offset_dec": 959536,
+      "offset_hex": "0x000EA430",
+      "slot_bytes": 20,
+      "json_indices": [
+        171
+      ],
+      "original_text_from_DATA02": "「あ…美雨…もう…」",
+      "original_messages": [
+        "「あ…美雨…もう…」"
+      ],
+      "chs_messages": [
+        "「啊……美雨……我不行了……」"
+      ],
+      "packed_full_text": "「堯……美雨……我不行了……」",
+      "displayed_after_truncate": "「堯……美雨……」",
+      "full_chars": 15,
+      "displayed_chars": 9,
+      "removed_chars": 6,
+      "full_bytes_cp932": 30,
+      "displayed_bytes_cp932": 18,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 8,
+          "end_char": 14,
+          "text": "我不行了……",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 1730,
+      "offset_dec": 1010140,
+      "offset_hex": "0x000F69DC",
+      "slot_bytes": 77,
+      "json_indices": [
+        1220
+      ],
+      "original_text_from_DATA02": "「あぁ…おじちゃん、こんな事されてて説得力ないけど…お兄ちゃんひどい\r　奴だ」",
+      "original_messages": [
+        "「あぁ…おじちゃん、こんな事されてて説得力ないけど…お兄ちゃんひどい\r　奴だ」"
+      ],
+      "chs_messages": [
+        "「啊……虽然大叔我现在正被你伺候着，说这话没什么说服力……但你哥哥真是个差劲\r　的家伙」"
+      ],
+      "packed_full_text": "「堯……雖然大叔我現在正被凜伺候着，説這話没什麼説服力……但凜哥哥真是个差勁\r　的家夥」",
+      "displayed_after_truncate": "「堯……雖然大叔我現在正被凜伺候着，説這話没什麼説服力……但凜哥哥真是个差」",
+      "full_chars": 44,
+      "displayed_chars": 38,
+      "removed_chars": 6,
+      "full_bytes_cp932": 87,
+      "displayed_bytes_cp932": 76,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 37,
+          "end_char": 43,
+          "text": "勁\r　的家夥",
+          "chars": 6,
+          "bytes_cp932": 11
+        }
+      ]
+    },
+    {
+      "row_index": 5572,
+      "offset_dec": 1155668,
+      "offset_hex": "0x0011A254",
+      "slot_bytes": 36,
+      "json_indices": [
+        4105
+      ],
+      "original_text_from_DATA02": "「ま…ま○…こ…ま○こ…ぉ…あふっ」",
+      "original_messages": [
+        "「ま…ま○…こ…ま○こ…ぉ…あふっ」"
+      ],
+      "chs_messages": [
+        "「小……小○……穴……小穴……呜……啊哈……」"
+      ],
+      "packed_full_text": "「小……小○……穴……小穴……嗚……堯哈……」",
+      "displayed_after_truncate": "「小……小○……穴……小穴………」",
+      "full_chars": 23,
+      "displayed_chars": 17,
+      "removed_chars": 6,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 34,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 21,
+          "text": "嗚……堯哈…",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 5573,
+      "offset_dec": 1155708,
+      "offset_hex": "0x0011A27C",
+      "slot_bytes": 36,
+      "json_indices": [
+        4106
+      ],
+      "original_text_from_DATA02": "「ま…ま○…こ…ま○こ…ぉ…あふっ」",
+      "original_messages": [
+        "「ま…ま○…こ…ま○こ…ぉ…あふっ」"
+      ],
+      "chs_messages": [
+        "「小……小○……穴……小穴……呜……啊哈……」"
+      ],
+      "packed_full_text": "「小……小○……穴……小穴……嗚……堯哈……」",
+      "displayed_after_truncate": "「小……小○……穴……小穴………」",
+      "full_chars": 23,
+      "displayed_chars": 17,
+      "removed_chars": 6,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 34,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 21,
+          "text": "嗚……堯哈…",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7970,
+      "offset_dec": 1242504,
+      "offset_hex": "0x0012F588",
+      "slot_bytes": 14,
+      "json_indices": [
+        5857
+      ],
+      "original_text_from_DATA02": "「あぁ…イ…」",
+      "original_messages": [
+        "「あぁ…イ…」"
+      ],
+      "chs_messages": [
+        "「啊……要，要去了……」"
+      ],
+      "packed_full_text": "「堯……要，要去了……」",
+      "displayed_after_truncate": "「堯………」",
+      "full_chars": 12,
+      "displayed_chars": 6,
+      "removed_chars": 6,
+      "full_bytes_cp932": 24,
+      "displayed_bytes_cp932": 12,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 4,
+          "end_char": 10,
+          "text": "要，要去了…",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 7971,
+      "offset_dec": 1242520,
+      "offset_hex": "0x0012F598",
+      "slot_bytes": 14,
+      "json_indices": [
+        5858
+      ],
+      "original_text_from_DATA02": "「あぁ…イ…」",
+      "original_messages": [
+        "「あぁ…イ…」"
+      ],
+      "chs_messages": [
+        "「啊……要，要去了……」"
+      ],
+      "packed_full_text": "「堯……要，要去了……」",
+      "displayed_after_truncate": "「堯………」",
+      "full_chars": 12,
+      "displayed_chars": 6,
+      "removed_chars": 6,
+      "full_bytes_cp932": 24,
+      "displayed_bytes_cp932": 12,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 4,
+          "end_char": 10,
+          "text": "要，要去了…",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 8274,
+      "offset_dec": 1255684,
+      "offset_hex": "0x00132904",
+      "slot_bytes": 22,
+      "json_indices": [
+        6085
+      ],
+      "original_text_from_DATA02": "「やめて…やめ…て…」",
+      "original_messages": [
+        "「やめて…やめ…て…」"
+      ],
+      "chs_messages": [
+        "「住手……求你……停……下……」"
+      ],
+      "packed_full_text": "「住手……求凜……停……下……」",
+      "displayed_after_truncate": "「住手……求凜……」",
+      "full_chars": 16,
+      "displayed_chars": 10,
+      "removed_chars": 6,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 20,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 9,
+          "end_char": 15,
+          "text": "停……下……",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 8275,
+      "offset_dec": 1255708,
+      "offset_hex": "0x0013291C",
+      "slot_bytes": 22,
+      "json_indices": [
+        6086
+      ],
+      "original_text_from_DATA02": "「やめて…やめ…て…」",
+      "original_messages": [
+        "「やめて…やめ…て…」"
+      ],
+      "chs_messages": [
+        "「住手……求你……停……下……」"
+      ],
+      "packed_full_text": "「住手……求凜……停……下……」",
+      "displayed_after_truncate": "「住手……求凜……」",
+      "full_chars": 16,
+      "displayed_chars": 10,
+      "removed_chars": 6,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 20,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 9,
+          "end_char": 15,
+          "text": "停……下……",
+          "chars": 6,
+          "bytes_cp932": 12
+        }
+      ]
+    },
+    {
+      "row_index": 59,
+      "offset_dec": 950936,
+      "offset_hex": "0x000E8298",
+      "slot_bytes": 79,
+      "json_indices": [
+        8
+      ],
+      "original_text_from_DATA02": "　金の力に不可能はなかった。途中までは。出発の日、美雨の記憶が戻った\rのである。",
+      "original_messages": [
+        "金の力に不可能はなかった。途中までは。出発の日、美雨の記憶が戻った\rのである。"
+      ],
+      "chs_messages": [
+        "在金钱的力量面前，没有什么是不可能的。至少在半路上是这样。就在出发那天，美雨\r恢复了记忆。"
+      ],
+      "packed_full_text": "在金銭的力量面前，没有什麼是不可能的。至少在半路上是這樣。就在出髪那天，美雨\r恢復了記憶。",
+      "displayed_after_truncate": "在金銭的力量面前，没有什麼是不可能的。至少在半路上是這樣。就在出髪那天，美雨\r恢",
+      "full_chars": 45,
+      "displayed_chars": 40,
+      "removed_chars": 5,
+      "full_bytes_cp932": 89,
+      "displayed_bytes_cp932": 79,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 40,
+          "end_char": 45,
+          "text": "復了記憶。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 60,
+      "offset_dec": 951016,
+      "offset_hex": "0x000E82E8",
+      "slot_bytes": 79,
+      "json_indices": [
+        9
+      ],
+      "original_text_from_DATA02": "　金の力に不可能はなかった。途中までは。出発の日、美雨の記憶が戻った\rのである。",
+      "original_messages": [
+        "金の力に不可能はなかった。途中までは。出発の日、美雨の記憶が戻った\rのである。"
+      ],
+      "chs_messages": [
+        "在金钱的力量面前，没有什么是不可能的。至少在半路上是这样。就在出发那天，美雨\r恢复了记忆。"
+      ],
+      "packed_full_text": "在金銭的力量面前，没有什麼是不可能的。至少在半路上是這樣。就在出髪那天，美雨\r恢復了記憶。",
+      "displayed_after_truncate": "在金銭的力量面前，没有什麼是不可能的。至少在半路上是這樣。就在出髪那天，美雨\r恢",
+      "full_chars": 45,
+      "displayed_chars": 40,
+      "removed_chars": 5,
+      "full_bytes_cp932": 89,
+      "displayed_bytes_cp932": 79,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 40,
+          "end_char": 45,
+          "text": "復了記憶。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 127,
+      "offset_dec": 953584,
+      "offset_hex": "0x000E8CF0",
+      "slot_bytes": 22,
+      "json_indices": [
+        58
+      ],
+      "original_text_from_DATA02": "「も～！美雨、大好き」",
+      "original_messages": [
+        "「も〜！美雨、大好き」"
+      ],
+      "chs_messages": [
+        "「真是的！美雨，我最喜欢你了。」"
+      ],
+      "packed_full_text": "「真是的！美雨，我最喜歓凜了。」",
+      "displayed_after_truncate": "「真是的！美雨，我。」",
+      "full_chars": 16,
+      "displayed_chars": 11,
+      "removed_chars": 5,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 22,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 9,
+          "end_char": 14,
+          "text": "最喜歓凜了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 128,
+      "offset_dec": 953608,
+      "offset_hex": "0x000E8D08",
+      "slot_bytes": 22,
+      "json_indices": [
+        59
+      ],
+      "original_text_from_DATA02": "「も～！美雨、大好き」",
+      "original_messages": [
+        "「も〜！美雨、大好き」"
+      ],
+      "chs_messages": [
+        "「真是的！美雨，我最喜欢你了。」"
+      ],
+      "packed_full_text": "「真是的！美雨，我最喜歓凜了。」",
+      "displayed_after_truncate": "「真是的！美雨，我。」",
+      "full_chars": 16,
+      "displayed_chars": 11,
+      "removed_chars": 5,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 22,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 9,
+          "end_char": 14,
+          "text": "最喜歓凜了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 2868,
+      "offset_dec": 1052048,
+      "offset_hex": "0x00100D90",
+      "slot_bytes": 62,
+      "json_indices": [
+        2065
+      ],
+      "original_text_from_DATA02": "「んだ。自分の女がやられてる時にオナニーしてる奴なんて最低だ」",
+      "original_messages": [
+        "「んだ。自分の女がやられてる時にオナニーしてる奴なんて最低だ」"
+      ],
+      "chs_messages": [
+        "「就是说啊。眼睁睁看着自己的女人受辱，竟然还在那儿自慰，这种人最差劲了」"
+      ],
+      "packed_full_text": "「就是説堯。眼諍諍看着自己的女人受辱，竟然還在那儿自慰，這種人最差勁了」",
+      "displayed_after_truncate": "「就是説堯。眼諍諍看着自己的女人受辱，竟然還在那儿自慰，這種」",
+      "full_chars": 36,
+      "displayed_chars": 31,
+      "removed_chars": 5,
+      "full_bytes_cp932": 72,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 30,
+          "end_char": 35,
+          "text": "人最差勁了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 2869,
+      "offset_dec": 1052112,
+      "offset_hex": "0x00100DD0",
+      "slot_bytes": 62,
+      "json_indices": [
+        2066
+      ],
+      "original_text_from_DATA02": "「んだ。自分の女がやられてる時にオナニーしてる奴なんて最低だ」",
+      "original_messages": [
+        "「んだ。自分の女がやられてる時にオナニーしてる奴なんて最低だ」"
+      ],
+      "chs_messages": [
+        "「就是说啊。眼睁睁看着自己的女人受辱，竟然还在那儿自慰，这种人最差劲了」"
+      ],
+      "packed_full_text": "「就是説堯。眼諍諍看着自己的女人受辱，竟然還在那儿自慰，這種人最差勁了」",
+      "displayed_after_truncate": "「就是説堯。眼諍諍看着自己的女人受辱，竟然還在那儿自慰，這種」",
+      "full_chars": 36,
+      "displayed_chars": 31,
+      "removed_chars": 5,
+      "full_bytes_cp932": 72,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 30,
+          "end_char": 35,
+          "text": "人最差勁了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 3185,
+      "offset_dec": 1064688,
+      "offset_hex": "0x00103EF0",
+      "slot_bytes": 30,
+      "json_indices": [
+        2303
+      ],
+      "original_text_from_DATA02": "　僕は可愛い妹に試練を課した。",
+      "original_messages": [
+        "僕は可愛い妹に試練を課した。"
+      ],
+      "chs_messages": [
+        "我决定给我那可爱的妹妹，降下了一道试炼。"
+      ],
+      "packed_full_text": "我决定給我那可愛的妹妹，降下了一道試煉。",
+      "displayed_after_truncate": "我决定給我那可愛的妹妹，降下了",
+      "full_chars": 20,
+      "displayed_chars": 15,
+      "removed_chars": 5,
+      "full_bytes_cp932": 40,
+      "displayed_bytes_cp932": 30,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 20,
+          "text": "一道試煉。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 3713,
+      "offset_dec": 1087320,
+      "offset_hex": "0x00109758",
+      "slot_bytes": 44,
+      "json_indices": [
+        2743
+      ],
+      "original_text_from_DATA02": "「月並みだけど、これがほんとの公衆便所だね」",
+      "original_messages": [
+        "「月並みだけど、これがほんとの公衆便所だね」"
+      ],
+      "chs_messages": [
+        "「虽然这话挺老套的，但这才是名副其实的‘公用便器’啊」"
+      ],
+      "packed_full_text": "「雖然這話挺老套的，但這才是名副其実的‘公用便器’堯」",
+      "displayed_after_truncate": "「雖然這話挺老套的，但這才是名副其実的‘公」",
+      "full_chars": 27,
+      "displayed_chars": 22,
+      "removed_chars": 5,
+      "full_bytes_cp932": 54,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 21,
+          "end_char": 26,
+          "text": "用便器’堯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 3714,
+      "offset_dec": 1087368,
+      "offset_hex": "0x00109788",
+      "slot_bytes": 44,
+      "json_indices": [
+        2744
+      ],
+      "original_text_from_DATA02": "「月並みだけど、これがほんとの公衆便所だね」",
+      "original_messages": [
+        "「月並みだけど、これがほんとの公衆便所だね」"
+      ],
+      "chs_messages": [
+        "「虽然这话挺老套的，但这才是名副其实的‘公用便器’啊」"
+      ],
+      "packed_full_text": "「雖然這話挺老套的，但這才是名副其実的‘公用便器’堯」",
+      "displayed_after_truncate": "「雖然這話挺老套的，但這才是名副其実的‘公」",
+      "full_chars": 27,
+      "displayed_chars": 22,
+      "removed_chars": 5,
+      "full_bytes_cp932": 54,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 21,
+          "end_char": 26,
+          "text": "用便器’堯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4038,
+      "offset_dec": 1099912,
+      "offset_hex": "0x0010C888",
+      "slot_bytes": 32,
+      "json_indices": [
+        2987
+      ],
+      "original_text_from_DATA02": "「もう帰して…お家に帰してえ！」",
+      "original_messages": [
+        "「もう帰して…お家に帰してえ！」"
+      ],
+      "chs_messages": [
+        "「放我回去吧……让我回家，快让我回家啊！」"
+      ],
+      "packed_full_text": "「放我回去槇……讓我回家，快讓我回家堯！」",
+      "displayed_after_truncate": "「放我回去槇……讓我回家，快！」",
+      "full_chars": 21,
+      "displayed_chars": 16,
+      "removed_chars": 5,
+      "full_bytes_cp932": 42,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 14,
+          "end_char": 19,
+          "text": "讓我回家堯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4039,
+      "offset_dec": 1099948,
+      "offset_hex": "0x0010C8AC",
+      "slot_bytes": 32,
+      "json_indices": [
+        2988
+      ],
+      "original_text_from_DATA02": "「もう帰して…お家に帰してえ！」",
+      "original_messages": [
+        "「もう帰して…お家に帰してえ！」"
+      ],
+      "chs_messages": [
+        "「放我回去吧……让我回家，快让我回家啊！」"
+      ],
+      "packed_full_text": "「放我回去槇……讓我回家，快讓我回家堯！」",
+      "displayed_after_truncate": "「放我回去槇……讓我回家，快！」",
+      "full_chars": 21,
+      "displayed_chars": 16,
+      "removed_chars": 5,
+      "full_bytes_cp932": 42,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 14,
+          "end_char": 19,
+          "text": "讓我回家堯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4240,
+      "offset_dec": 1106792,
+      "offset_hex": "0x0010E368",
+      "slot_bytes": 44,
+      "json_indices": [
+        3129
+      ],
+      "original_text_from_DATA02": "「ずっと同じ服でも困ると思って用意したんだ」",
+      "original_messages": [
+        "「ずっと同じ服でも困ると思って用意したんだ」"
+      ],
+      "chs_messages": [
+        "「我想着一直穿同一件衣服也不太好，就给你准备了衣服。」"
+      ],
+      "packed_full_text": "「我想着一直穿同一件衣服也不太好，就給凜准備了衣服。」",
+      "displayed_after_truncate": "「我想着一直穿同一件衣服也不太好，就給凜。」",
+      "full_chars": 27,
+      "displayed_chars": 22,
+      "removed_chars": 5,
+      "full_bytes_cp932": 54,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 20,
+          "end_char": 25,
+          "text": "准備了衣服",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4241,
+      "offset_dec": 1106840,
+      "offset_hex": "0x0010E398",
+      "slot_bytes": 44,
+      "json_indices": [
+        3130
+      ],
+      "original_text_from_DATA02": "「ずっと同じ服でも困ると思って用意したんだ」",
+      "original_messages": [
+        "「ずっと同じ服でも困ると思って用意したんだ」"
+      ],
+      "chs_messages": [
+        "「我想着一直穿同一件衣服也不太好，就给你准备了衣服。」"
+      ],
+      "packed_full_text": "「我想着一直穿同一件衣服也不太好，就給凜准備了衣服。」",
+      "displayed_after_truncate": "「我想着一直穿同一件衣服也不太好，就給凜。」",
+      "full_chars": 27,
+      "displayed_chars": 22,
+      "removed_chars": 5,
+      "full_bytes_cp932": 54,
+      "displayed_bytes_cp932": 44,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 20,
+          "end_char": 25,
+          "text": "准備了衣服",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4664,
+      "offset_dec": 1123744,
+      "offset_hex": "0x001125A0",
+      "slot_bytes": 26,
+      "json_indices": [
+        3454
+      ],
+      "original_text_from_DATA02": "「楽しいだけの友達だろう」",
+      "original_messages": [
+        "「楽しいだけの友達だろう」"
+      ],
+      "chs_messages": [
+        "「也就是些只能一起寻欢作乐的朋友吧」"
+      ],
+      "packed_full_text": "「也就是些只能一起尋歓作楽的朋友槇」",
+      "displayed_after_truncate": "「也就是些只能一起尋歓作」",
+      "full_chars": 18,
+      "displayed_chars": 13,
+      "removed_chars": 5,
+      "full_bytes_cp932": 36,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 12,
+          "end_char": 17,
+          "text": "楽的朋友槇",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4665,
+      "offset_dec": 1123772,
+      "offset_hex": "0x001125BC",
+      "slot_bytes": 26,
+      "json_indices": [
+        3455
+      ],
+      "original_text_from_DATA02": "「楽しいだけの友達だろう」",
+      "original_messages": [
+        "「楽しいだけの友達だろう」"
+      ],
+      "chs_messages": [
+        "「不过是些只能凑在一起傻乐的朋友吧」"
+      ],
+      "packed_full_text": "「不過是些只能湊在一起麩楽的朋友槇」",
+      "displayed_after_truncate": "「不過是些只能湊在一起麩」",
+      "full_chars": 18,
+      "displayed_chars": 13,
+      "removed_chars": 5,
+      "full_bytes_cp932": 36,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 12,
+          "end_char": 17,
+          "text": "楽的朋友槇",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4894,
+      "offset_dec": 1132164,
+      "offset_hex": "0x00114684",
+      "slot_bytes": 42,
+      "json_indices": [
+        3619
+      ],
+      "original_text_from_DATA02": "「だから見てあげるんだよ。兄の責任として」",
+      "original_messages": [
+        "「だから見てあげるんだよ。兄の責任として」"
+      ],
+      "chs_messages": [
+        "「所以我才要帮你检查一下啊。这也是作为哥哥的责任。」"
+      ],
+      "packed_full_text": "「所以我才要幇凜検査一下堯。這也是作為哥哥的責任。」",
+      "displayed_after_truncate": "「所以我才要幇凜検査一下堯。這也是作為。」",
+      "full_chars": 26,
+      "displayed_chars": 21,
+      "removed_chars": 5,
+      "full_bytes_cp932": 52,
+      "displayed_bytes_cp932": 42,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 19,
+          "end_char": 24,
+          "text": "哥哥的責任",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 4895,
+      "offset_dec": 1132208,
+      "offset_hex": "0x001146B0",
+      "slot_bytes": 42,
+      "json_indices": [
+        3620
+      ],
+      "original_text_from_DATA02": "「だから見てあげるんだよ。兄の責任として」",
+      "original_messages": [
+        "「だから見てあげるんだよ。兄の責任として」"
+      ],
+      "chs_messages": [
+        "「所以我才要帮你检查一下啊。这也是作为哥哥的责任。」"
+      ],
+      "packed_full_text": "「所以我才要幇凜検査一下堯。這也是作為哥哥的責任。」",
+      "displayed_after_truncate": "「所以我才要幇凜検査一下堯。這也是作為。」",
+      "full_chars": 26,
+      "displayed_chars": 21,
+      "removed_chars": 5,
+      "full_bytes_cp932": 52,
+      "displayed_bytes_cp932": 42,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 19,
+          "end_char": 24,
+          "text": "哥哥的責任",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5064,
+      "offset_dec": 1138324,
+      "offset_hex": "0x00115E94",
+      "slot_bytes": 52,
+      "json_indices": [
+        3741
+      ],
+      "original_text_from_DATA02": "「可愛いよ美雨。僕の愛おしい妹であり、素敵な玩具…」",
+      "original_messages": [
+        "「可愛いよ美雨。僕の愛おしい妹であり、素敵な玩具…」"
+      ],
+      "chs_messages": [
+        "「真可爱啊，美雨。你是我心爱的妹妹，也是我最棒的……玩具……」"
+      ],
+      "packed_full_text": "「真可愛堯，美雨。凜是我心愛的妹妹，也是我最棒的……玩具……」",
+      "displayed_after_truncate": "「真可愛堯，美雨。凜是我心愛的妹妹，也是我最棒……」",
+      "full_chars": 31,
+      "displayed_chars": 26,
+      "removed_chars": 5,
+      "full_bytes_cp932": 62,
+      "displayed_bytes_cp932": 52,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "的……玩具",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5065,
+      "offset_dec": 1138380,
+      "offset_hex": "0x00115ECC",
+      "slot_bytes": 52,
+      "json_indices": [
+        3742
+      ],
+      "original_text_from_DATA02": "「可愛いよ美雨。僕の愛おしい妹であり、素敵な玩具…」",
+      "original_messages": [
+        "「可愛いよ美雨。僕の愛おしい妹であり、素敵な玩具…」"
+      ],
+      "chs_messages": [
+        "「真可爱啊，美雨。你是我心爱的妹妹，也是我最棒的……玩具……」"
+      ],
+      "packed_full_text": "「真可愛堯，美雨。凜是我心愛的妹妹，也是我最棒的……玩具……」",
+      "displayed_after_truncate": "「真可愛堯，美雨。凜是我心愛的妹妹，也是我最棒……」",
+      "full_chars": 31,
+      "displayed_chars": 26,
+      "removed_chars": 5,
+      "full_bytes_cp932": 62,
+      "displayed_bytes_cp932": 52,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "的……玩具",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5376,
+      "offset_dec": 1149800,
+      "offset_hex": "0x00118B68",
+      "slot_bytes": 28,
+      "json_indices": [
+        3963
+      ],
+      "original_text_from_DATA02": "「変だよ…あ…美雨…変なの」",
+      "original_messages": [
+        "「変だよ…あ…美雨…変なの」"
+      ],
+      "chs_messages": [
+        "「好奇怪……啊……美雨……感觉好奇怪」"
+      ],
+      "packed_full_text": "「好奇怪……堯……美雨……感覚好奇怪」",
+      "displayed_after_truncate": "「好奇怪……堯……美雨……」",
+      "full_chars": 19,
+      "displayed_chars": 14,
+      "removed_chars": 5,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 28,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 13,
+          "end_char": 18,
+          "text": "感覚好奇怪",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5377,
+      "offset_dec": 1149832,
+      "offset_hex": "0x00118B88",
+      "slot_bytes": 28,
+      "json_indices": [
+        3964
+      ],
+      "original_text_from_DATA02": "「変だよ…あ…美雨…変なの」",
+      "original_messages": [
+        "「変だよ…あ…美雨…変なの」"
+      ],
+      "chs_messages": [
+        "「好奇怪……啊……美雨……感觉好奇怪」"
+      ],
+      "packed_full_text": "「好奇怪……堯……美雨……感覚好奇怪」",
+      "displayed_after_truncate": "「好奇怪……堯……美雨……」",
+      "full_chars": 19,
+      "displayed_chars": 14,
+      "removed_chars": 5,
+      "full_bytes_cp932": 38,
+      "displayed_bytes_cp932": 28,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 13,
+          "end_char": 18,
+          "text": "感覚好奇怪",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5423,
+      "offset_dec": 1151140,
+      "offset_hex": "0x001190A4",
+      "slot_bytes": 36,
+      "json_indices": [
+        3997
+      ],
+      "original_text_from_DATA02": "　僕は起きて美雨の下半身を裸にした。",
+      "original_messages": [
+        "僕は起きて美雨の下半身を裸にした。"
+      ],
+      "chs_messages": [
+        "我坐起身，脱掉了美雨的下装，露出了她的下半身。"
+      ],
+      "packed_full_text": "我坐起身，脱掉了美雨的下装，露出了瑤的下半身。",
+      "displayed_after_truncate": "我坐起身，脱掉了美雨的下装，露出了瑤",
+      "full_chars": 23,
+      "displayed_chars": 18,
+      "removed_chars": 5,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 36,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 18,
+          "end_char": 23,
+          "text": "的下半身。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 5424,
+      "offset_dec": 1151180,
+      "offset_hex": "0x001190CC",
+      "slot_bytes": 36,
+      "json_indices": [
+        3998
+      ],
+      "original_text_from_DATA02": "　僕は起きて美雨の下半身を裸にした。",
+      "original_messages": [
+        "僕は起きて美雨の下半身を裸にした。"
+      ],
+      "chs_messages": [
+        "我坐起身，脱掉了美雨的下装，露出了她的下半身。"
+      ],
+      "packed_full_text": "我坐起身，脱掉了美雨的下装，露出了瑤的下半身。",
+      "displayed_after_truncate": "我坐起身，脱掉了美雨的下装，露出了瑤",
+      "full_chars": 23,
+      "displayed_chars": 18,
+      "removed_chars": 5,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 36,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 18,
+          "end_char": 23,
+          "text": "的下半身。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6294,
+      "offset_dec": 1182912,
+      "offset_hex": "0x00120CC0",
+      "slot_bytes": 32,
+      "json_indices": [
+        4647
+      ],
+      "original_text_from_DATA02": "　一際激しい痙攣で美雨は果てた。",
+      "original_messages": [
+        "一際激しい痙攣で美雨は果てた。"
+      ],
+      "chs_messages": [
+        "伴随着一阵格外剧烈的痉挛，美雨登上了顶峰。"
+      ],
+      "packed_full_text": "伴随着一陣格外劇烈的痙攣，美雨登上了頂峰。",
+      "displayed_after_truncate": "伴随着一陣格外劇烈的痙攣，美雨登",
+      "full_chars": 21,
+      "displayed_chars": 16,
+      "removed_chars": 5,
+      "full_bytes_cp932": 42,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 16,
+          "end_char": 21,
+          "text": "上了頂峰。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6295,
+      "offset_dec": 1182948,
+      "offset_hex": "0x00120CE4",
+      "slot_bytes": 32,
+      "json_indices": [
+        4648
+      ],
+      "original_text_from_DATA02": "　一際激しい痙攣で美雨は果てた。",
+      "original_messages": [
+        "一際激しい痙攣で美雨は果てた。"
+      ],
+      "chs_messages": [
+        "伴随着一阵格外剧烈的痉挛，美雨登上了顶峰。"
+      ],
+      "packed_full_text": "伴随着一陣格外劇烈的痙攣，美雨登上了頂峰。",
+      "displayed_after_truncate": "伴随着一陣格外劇烈的痙攣，美雨登",
+      "full_chars": 21,
+      "displayed_chars": 16,
+      "removed_chars": 5,
+      "full_bytes_cp932": 42,
+      "displayed_bytes_cp932": 32,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 16,
+          "end_char": 21,
+          "text": "上了頂峰。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6808,
+      "offset_dec": 1200596,
+      "offset_hex": "0x001251D4",
+      "slot_bytes": 48,
+      "json_indices": [
+        5009
+      ],
+      "original_text_from_DATA02": "「私ももう若くないが。患者の為とあらば仕方ない」",
+      "original_messages": [
+        "「私ももう若くないが。患者の為とあらば仕方ない」"
+      ],
+      "chs_messages": [
+        "「我虽然也一把年纪了，但既然是为了病人，那也只能豁出去了」"
+      ],
+      "packed_full_text": "「我雖然也一把年紀了，但既然是為了病人，那也只能豁出去了」",
+      "displayed_after_truncate": "「我雖然也一把年紀了，但既然是為了病人，那也只」",
+      "full_chars": 29,
+      "displayed_chars": 24,
+      "removed_chars": 5,
+      "full_bytes_cp932": 58,
+      "displayed_bytes_cp932": 48,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "能豁出去了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6809,
+      "offset_dec": 1200648,
+      "offset_hex": "0x00125208",
+      "slot_bytes": 48,
+      "json_indices": [
+        5010
+      ],
+      "original_text_from_DATA02": "「私ももう若くないが。患者の為とあらば仕方ない」",
+      "original_messages": [
+        "「私ももう若くないが。患者の為とあらば仕方ない」"
+      ],
+      "chs_messages": [
+        "「我虽然也一把年纪了，但既然是为了病人，那也只能豁出去了」"
+      ],
+      "packed_full_text": "「我雖然也一把年紀了，但既然是為了病人，那也只能豁出去了」",
+      "displayed_after_truncate": "「我雖然也一把年紀了，但既然是為了病人，那也只」",
+      "full_chars": 29,
+      "displayed_chars": 24,
+      "removed_chars": 5,
+      "full_bytes_cp932": 58,
+      "displayed_bytes_cp932": 48,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "能豁出去了",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7403,
+      "offset_dec": 1223572,
+      "offset_hex": "0x0012AB94",
+      "slot_bytes": 46,
+      "json_indices": [
+        5447
+      ],
+      "original_text_from_DATA02": "　気が付くと小さな体を抱きしめ唇を吸っていた。",
+      "original_messages": [
+        "気が付くと小さな体を抱きしめ唇を吸っていた。"
+      ],
+      "chs_messages": [
+        "等回过神来，我已将那娇小的身躯拥入怀中，堵住了她的双唇。"
+      ],
+      "packed_full_text": "等回過神来，我已将那嬌小的身躯擁入懐中，堵住了瑤的双唇。",
+      "displayed_after_truncate": "等回過神来，我已将那嬌小的身躯擁入懐中，堵住了",
+      "full_chars": 28,
+      "displayed_chars": 23,
+      "removed_chars": 5,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 46,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "瑤的双唇。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7404,
+      "offset_dec": 1223620,
+      "offset_hex": "0x0012ABC4",
+      "slot_bytes": 46,
+      "json_indices": [
+        5448
+      ],
+      "original_text_from_DATA02": "　気が付くと小さな体を抱きしめ唇を吸っていた。",
+      "original_messages": [
+        "気が付くと小さな体を抱きしめ唇を吸っていた。"
+      ],
+      "chs_messages": [
+        "等回过神来，我已将那娇小的身躯拥入怀中，堵住了她的双唇。"
+      ],
+      "packed_full_text": "等回過神来，我已将那嬌小的身躯擁入懐中，堵住了瑤的双唇。",
+      "displayed_after_truncate": "等回過神来，我已将那嬌小的身躯擁入懐中，堵住了",
+      "full_chars": 28,
+      "displayed_chars": 23,
+      "removed_chars": 5,
+      "full_bytes_cp932": 56,
+      "displayed_bytes_cp932": 46,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 23,
+          "end_char": 28,
+          "text": "瑤的双唇。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7510,
+      "offset_dec": 1227792,
+      "offset_hex": "0x0012BC10",
+      "slot_bytes": 62,
+      "json_indices": [
+        5529
+      ],
+      "original_text_from_DATA02": "　僕は体は開いても相変わらず心は開かない美雨を持て余していた。",
+      "original_messages": [
+        "僕は体は開いても相変わらず心は開かない美雨を持て余していた。"
+      ],
+      "chs_messages": [
+        "即便她已经对我敞开了身体，可心却依然紧闭如初，我实在拿这样的美雨没办法。"
+      ],
+      "packed_full_text": "即便瑤已経対我敞開了身体，可心却依然緊閉如初，我実在拿這樣的美雨没齡法。",
+      "displayed_after_truncate": "即便瑤已経対我敞開了身体，可心却依然緊閉如初，我実在拿這樣的美",
+      "full_chars": 36,
+      "displayed_chars": 31,
+      "removed_chars": 5,
+      "full_bytes_cp932": 72,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 36,
+          "text": "雨没齡法。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7511,
+      "offset_dec": 1227856,
+      "offset_hex": "0x0012BC50",
+      "slot_bytes": 62,
+      "json_indices": [
+        5530
+      ],
+      "original_text_from_DATA02": "　僕は体は開いても相変わらず心は開かない美雨を持て余していた。",
+      "original_messages": [
+        "僕は体は開いても相変わらず心は開かない美雨を持て余していた。"
+      ],
+      "chs_messages": [
+        "即便她已经对我敞开了身体，可心却依然紧闭如初，我实在拿这样的美雨没办法。"
+      ],
+      "packed_full_text": "即便瑤已経対我敞開了身体，可心却依然緊閉如初，我実在拿這樣的美雨没齡法。",
+      "displayed_after_truncate": "即便瑤已経対我敞開了身体，可心却依然緊閉如初，我実在拿這樣的美",
+      "full_chars": 36,
+      "displayed_chars": 31,
+      "removed_chars": 5,
+      "full_bytes_cp932": 72,
+      "displayed_bytes_cp932": 62,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 31,
+          "end_char": 36,
+          "text": "雨没齡法。",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 8986,
+      "offset_dec": 1280284,
+      "offset_hex": "0x0013891C",
+      "slot_bytes": 36,
+      "json_indices": [
+        6591
+      ],
+      "original_text_from_DATA02": "「あ…当たり前です！こんな恐い事…」",
+      "original_messages": [
+        "「あ…当たり前です！こんな恐い事…」"
+      ],
+      "chs_messages": [
+        "「这……这是理所当然的吧！这种可怕的事情……」"
+      ],
+      "packed_full_text": "「這……這是理所当然的槇！這種可怕的事情……」",
+      "displayed_after_truncate": "「這……這是理所当然的槇！這種……」",
+      "full_chars": 23,
+      "displayed_chars": 18,
+      "removed_chars": 5,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 36,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 20,
+          "text": "可怕的事情",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 8987,
+      "offset_dec": 1280324,
+      "offset_hex": "0x00138944",
+      "slot_bytes": 36,
+      "json_indices": [
+        6592
+      ],
+      "original_text_from_DATA02": "「あ…当たり前です！こんな恐い事…」",
+      "original_messages": [
+        "「あ…当たり前です！こんな恐い事…」"
+      ],
+      "chs_messages": [
+        "「这……这是理所当然的吧！这种可怕的事情……」"
+      ],
+      "packed_full_text": "「這……這是理所当然的槇！這種可怕的事情……」",
+      "displayed_after_truncate": "「這……這是理所当然的槇！這種……」",
+      "full_chars": 23,
+      "displayed_chars": 18,
+      "removed_chars": 5,
+      "full_bytes_cp932": 46,
+      "displayed_bytes_cp932": 36,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 15,
+          "end_char": 20,
+          "text": "可怕的事情",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 9001,
+      "offset_dec": 1280692,
+      "offset_hex": "0x00138AB4",
+      "slot_bytes": 60,
+      "json_indices": [
+        6601
+      ],
+      "original_text_from_DATA02": "「本当に好きで長く付き合った相手としかエッチしたくないんだ」",
+      "original_messages": [
+        "「本当に好きで長く付き合った相手としかエッチしたくないんだ」"
+      ],
+      "chs_messages": [
+        "「所以你觉得，只有和真心喜欢、并且交往了很久的对象，才能做那种事对吧」"
+      ],
+      "packed_full_text": "「所以凜覚得，只有和真心喜歓、并且交往了很久的対象，才能做那種事対槇」",
+      "displayed_after_truncate": "「所以凜覚得，只有和真心喜歓、并且交往了很久的対象，才能做」",
+      "full_chars": 35,
+      "displayed_chars": 30,
+      "removed_chars": 5,
+      "full_bytes_cp932": 70,
+      "displayed_bytes_cp932": 60,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 29,
+          "end_char": 34,
+          "text": "那種事対槇",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 9002,
+      "offset_dec": 1280756,
+      "offset_hex": "0x00138AF4",
+      "slot_bytes": 60,
+      "json_indices": [
+        6602
+      ],
+      "original_text_from_DATA02": "「本当に好きで長く付き合った相手としかエッチしたくないんだ」",
+      "original_messages": [
+        "「本当に好きで長く付き合った相手としかエッチしたくないんだ」"
+      ],
+      "chs_messages": [
+        "「所以你觉得，只有和真心喜欢、并且交往了很久的对象，才能做那种事对吧」"
+      ],
+      "packed_full_text": "「所以凜覚得，只有和真心喜歓、并且交往了很久的対象，才能做那種事対槇」",
+      "displayed_after_truncate": "「所以凜覚得，只有和真心喜歓、并且交往了很久的対象，才能做」",
+      "full_chars": 35,
+      "displayed_chars": 30,
+      "removed_chars": 5,
+      "full_bytes_cp932": 70,
+      "displayed_bytes_cp932": 60,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 29,
+          "end_char": 34,
+          "text": "那種事対槇",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 9152,
+      "offset_dec": 1287200,
+      "offset_hex": "0x0013A420",
+      "slot_bytes": 50,
+      "json_indices": [
+        6714
+      ],
+      "original_text_from_DATA02": "「かなりきつかったけどね。部活やってたらマジ無理」",
+      "original_messages": [
+        "「かなりきつかったけどね。部活やってたらマジ無理」"
+      ],
+      "chs_messages": [
+        "「虽然确实挺辛苦的。要是还要搞社团活动的话，那真的绝对没戏」"
+      ],
+      "packed_full_text": "「雖然確実挺辛苦的。要是還要鎬社団活動的話，那真的絶対没戯」",
+      "displayed_after_truncate": "「雖然確実挺辛苦的。要是還要鎬社団活動的話，那真」",
+      "full_chars": 30,
+      "displayed_chars": 25,
+      "removed_chars": 5,
+      "full_bytes_cp932": 60,
+      "displayed_bytes_cp932": 50,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 24,
+          "end_char": 29,
+          "text": "的絶対没戯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 9153,
+      "offset_dec": 1287252,
+      "offset_hex": "0x0013A454",
+      "slot_bytes": 50,
+      "json_indices": [
+        6715
+      ],
+      "original_text_from_DATA02": "「かなりきつかったけどね。部活やってたらマジ無理」",
+      "original_messages": [
+        "「かなりきつかったけどね。部活やってたらマジ無理」"
+      ],
+      "chs_messages": [
+        "「虽然确实挺辛苦的。要是还要搞社团活动的话，那真的绝对没戏」"
+      ],
+      "packed_full_text": "「雖然確実挺辛苦的。要是還要鎬社団活動的話，那真的絶対没戯」",
+      "displayed_after_truncate": "「雖然確実挺辛苦的。要是還要鎬社団活動的話，那真」",
+      "full_chars": 30,
+      "displayed_chars": 25,
+      "removed_chars": 5,
+      "full_bytes_cp932": 60,
+      "displayed_bytes_cp932": 50,
+      "removed_bytes_cp932": 10,
+      "removed_parts": [
+        {
+          "start_char": 24,
+          "end_char": 29,
+          "text": "的絶対没戯",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 425,
+      "offset_dec": 965296,
+      "offset_hex": "0x000EBAB0",
+      "slot_bytes": 83,
+      "json_indices": [
+        282
+      ],
+      "original_text_from_DATA02": "「美雨の体、女っぽくなったじゃないか。毎日俺に可愛がられて女っぽくなっ\r　たんだよ」",
+      "original_messages": [
+        "「美雨の体、女っぽくなったじゃないか。毎日俺に可愛がられて女っぽくなっ\r　たんだよ」"
+      ],
+      "chs_messages": [
+        "「美雨的身体，不是已经变得很有女人味了吗。每天被我这样疼爱，当然会变得越来越有女人味\r　啊」"
+      ],
+      "packed_full_text": "「美雨的身体，不是已経変得很有女人味了龜。毎天被我這樣疼愛，当然会変得越来越有女人味\r　堯」",
+      "displayed_after_truncate": "「美雨的身体，不是已経変得很有女人味了龜。毎天被我這樣疼愛，当然会変得越来越有女」",
+      "full_chars": 46,
+      "displayed_chars": 41,
+      "removed_chars": 5,
+      "full_bytes_cp932": 91,
+      "displayed_bytes_cp932": 82,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 40,
+          "end_char": 45,
+          "text": "人味\r　堯",
+          "chars": 5,
+          "bytes_cp932": 9
+        }
+      ]
+    },
+    {
+      "row_index": 426,
+      "offset_dec": 965380,
+      "offset_hex": "0x000EBB04",
+      "slot_bytes": 83,
+      "json_indices": [
+        283
+      ],
+      "original_text_from_DATA02": "「美雨の体、女っぽくなったじゃないか。毎日俺に可愛がられて女っぽくなっ\r　たんだよ」",
+      "original_messages": [
+        "「美雨の体、女っぽくなったじゃないか。毎日俺に可愛がられて女っぽくなっ\r　たんだよ」"
+      ],
+      "chs_messages": [
+        "「美雨的身体，不是已经变得很有女人味了吗。每天被我这样疼爱，当然会变得越来越有女人味\r　啊」"
+      ],
+      "packed_full_text": "「美雨的身体，不是已経変得很有女人味了龜。毎天被我這樣疼愛，当然会変得越来越有女人味\r　堯」",
+      "displayed_after_truncate": "「美雨的身体，不是已経変得很有女人味了龜。毎天被我這樣疼愛，当然会変得越来越有女」",
+      "full_chars": 46,
+      "displayed_chars": 41,
+      "removed_chars": 5,
+      "full_bytes_cp932": 91,
+      "displayed_bytes_cp932": 82,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 40,
+          "end_char": 45,
+          "text": "人味\r　堯",
+          "chars": 5,
+          "bytes_cp932": 9
+        }
+      ]
+    },
+    {
+      "row_index": 2096,
+      "offset_dec": 1024780,
+      "offset_hex": "0x000FA30C",
+      "slot_bytes": 18,
+      "json_indices": [
+        1504
+      ],
+      "original_text_from_DATA02": "「あぁ！い…い…」",
+      "original_messages": [
+        "「あぁ！い…い…」"
+      ],
+      "chs_messages": [
+        "「啊！要……要出来了……」"
+      ],
+      "packed_full_text": "「堯！要……要出来了……」",
+      "displayed_after_truncate": "「堯！要………」",
+      "full_chars": 13,
+      "displayed_chars": 8,
+      "removed_chars": 5,
+      "full_bytes_cp932": 26,
+      "displayed_bytes_cp932": 16,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 6,
+          "end_char": 11,
+          "text": "要出来了…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 2097,
+      "offset_dec": 1024800,
+      "offset_hex": "0x000FA320",
+      "slot_bytes": 18,
+      "json_indices": [
+        1505
+      ],
+      "original_text_from_DATA02": "「あぁ！い…い…」",
+      "original_messages": [
+        "「あぁ！い…い…」"
+      ],
+      "chs_messages": [
+        "「啊！要……要出来了……」"
+      ],
+      "packed_full_text": "「堯！要……要出来了……」",
+      "displayed_after_truncate": "「堯！要………」",
+      "full_chars": 13,
+      "displayed_chars": 8,
+      "removed_chars": 5,
+      "full_bytes_cp932": 26,
+      "displayed_bytes_cp932": 16,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 6,
+          "end_char": 11,
+          "text": "要出来了…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6292,
+      "offset_dec": 1182840,
+      "offset_hex": "0x00120C78",
+      "slot_bytes": 24,
+      "json_indices": [
+        4645
+      ],
+      "original_text_from_DATA02": "「だ…め…う…あ…！！」",
+      "original_messages": [
+        "「だ…め…う…あ…！！」"
+      ],
+      "chs_messages": [
+        "「不……行……唔……啊……！！」"
+      ],
+      "packed_full_text": "「不……行……唔……堯……！！」",
+      "displayed_after_truncate": "「不……行………！！」",
+      "full_chars": 16,
+      "displayed_chars": 11,
+      "removed_chars": 5,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 22,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 7,
+          "end_char": 12,
+          "text": "唔……堯…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 6293,
+      "offset_dec": 1182868,
+      "offset_hex": "0x00120C94",
+      "slot_bytes": 24,
+      "json_indices": [
+        4646
+      ],
+      "original_text_from_DATA02": "「だ…め…う…あ…！！」",
+      "original_messages": [
+        "「だ…め…う…あ…！！」"
+      ],
+      "chs_messages": [
+        "「不……行……唔……啊……！！」"
+      ],
+      "packed_full_text": "「不……行……唔……堯……！！」",
+      "displayed_after_truncate": "「不……行………！！」",
+      "full_chars": 16,
+      "displayed_chars": 11,
+      "removed_chars": 5,
+      "full_bytes_cp932": 32,
+      "displayed_bytes_cp932": 22,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 7,
+          "end_char": 12,
+          "text": "唔……堯…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7883,
+      "offset_dec": 1239372,
+      "offset_hex": "0x0012E94C",
+      "slot_bytes": 28,
+      "json_indices": [
+        5793
+      ],
+      "original_text_from_DATA02": "「私…おかしい…はぁ…はぁ」",
+      "original_messages": [
+        "「私…おかしい…はぁ…はぁ」"
+      ],
+      "chs_messages": [
+        "「我……变得好奇怪……哈……哈……」"
+      ],
+      "packed_full_text": "「我……変得好奇怪……哈……哈……」",
+      "displayed_after_truncate": "「我……変得好奇怪………」",
+      "full_chars": 18,
+      "displayed_chars": 13,
+      "removed_chars": 5,
+      "full_bytes_cp932": 36,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 16,
+          "text": "哈……哈…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    },
+    {
+      "row_index": 7884,
+      "offset_dec": 1239404,
+      "offset_hex": "0x0012E96C",
+      "slot_bytes": 28,
+      "json_indices": [
+        5794
+      ],
+      "original_text_from_DATA02": "「私…おかしい…はぁ…はぁ」",
+      "original_messages": [
+        "「私…おかしい…はぁ…はぁ」"
+      ],
+      "chs_messages": [
+        "「我……变得好奇怪……哈……哈……」"
+      ],
+      "packed_full_text": "「我……変得好奇怪……哈……哈……」",
+      "displayed_after_truncate": "「我……変得好奇怪………」",
+      "full_chars": 18,
+      "displayed_chars": 13,
+      "removed_chars": 5,
+      "full_bytes_cp932": 36,
+      "displayed_bytes_cp932": 26,
+      "removed_bytes_cp932": 8,
+      "removed_parts": [
+        {
+          "start_char": 11,
+          "end_char": 16,
+          "text": "哈……哈…",
+          "chars": 5,
+          "bytes_cp932": 10
+        }
+      ]
+    }
+  ]
+}

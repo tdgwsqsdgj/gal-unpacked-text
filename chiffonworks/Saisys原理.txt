@@ -1,0 +1,48 @@
+核心原理：
+
+  - GRD 目录里的文件不是 archive 封包，本质就是 PNG 文件，只是去掉了 .png 扩展名。
+      - GRD\amiuh09 与 GRD_resource\amiuh09.png 全量一致。
+      - 打包方式：把 GRD_resource\*.png 复制到目标 GRD，文件名去掉 .png。
+  - SCRIPT\DATA.SSB 是单文件异或加密。
+      - crass 插件解包时逐字节执行 byte ^ 0xAA。
+      - 所以重封时同样对解包后的 SCRIPT_resource\DATA.SSB 逐字节 ^ 0xAA 即可还原为游戏用 DATA.SSB。
+  - SCRIPT\CODE.SSB 不在这个 crass 插件的处理范围内。
+      - 插件只匹配文件名 Data.ssb。
+      - 因此 CODE.SSB 打包时原样复制。
+
+  我新增了脚本：pack_saisys.py
+
+  默认用法：
+
+  python pack_saisys.py
+
+  默认输出：
+
+  - GRD_packed
+  - SCRIPT_packed
+
+  我已经跑过一次验证：
+
+  - GRD_packed 生成 259 个文件，与原 GRD 全量哈希一致。
+  - SCRIPT_packed\DATA.SSB 和 SCRIPT_packed\CODE.SSB 与原 SCRIPT 全量哈希一致。
+  - SCRIPT mismatches=0
+  - GRD mismatches=0
+
+  也就是说这个脚本可以从当前的 GRD_resource / SCRIPT_resource 正确重封出与原始封包一致的文件。
+
+
+
+
+
+
+
+ - CODE.SSB 不是 crass 插件那种封包。
+  - 它没有文件头、目录表、压缩层或 XOR 加密。
+  - 文件大小 385056，刚好能被 4 整除。
+  - 实际结构更像 SaiSys 引擎的 32 位小端 VM 字节码/指令表。
+  - 所以“解包”的方法不是提取文件，而是按 <uint32 little-endian> 转储查看。
+
+脚本核心逻辑：
+
+  data = path.read_bytes()
+  words = struct.unpack(f"<{len(data) // 4}I", data)
